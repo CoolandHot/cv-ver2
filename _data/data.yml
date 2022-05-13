@@ -17,11 +17,11 @@ languages:
   - idiom: English
 
 education:
-  - degree: MSc in Data Science
+  - degree: MSc in Data Science (WAM 83.9)
     time: 2020-2021
     university: University of Sydney, Australia
 
-  - degree: BEng in Electronics Information & Technology
+  - degree: BEng in Electronics Information & Technology (WAM 79.03)
     time: 2008-2012
     university: Central South University, China
 
@@ -119,7 +119,7 @@ publications:
     authors: Binjie Guo, Hanyu Zheng, Huan Huang, Haohan Jiang, Xiaodan Li, Naiyu Guan, Yanming Zuo, Yicheng Zhang, Hengfu Yang*, Xuhua Wang*
     conference: 
 
-  - title: Hotspots Recommender: Spatio-temporal Prediction of Ride-hailing and Taxicab Services
+  - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services
     link: "#"
     authors: Huang Huan, Basem Suleiman*, Waheeb Yaqub
     conference: 
