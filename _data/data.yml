@@ -42,7 +42,16 @@ skills:
 
 # Profile
 profile: |
-  .
+   I discovered my interest in data science at work and plan a 
+   PhD in this direction by pursuing an MSc degree in Data Science 
+   at the University of Sydney. I'm so fascinated by tackling real-world 
+   problems with Machine Learning. To gain more research experience for applying 
+   for a PhD, I have been working as a research assistant at the University of 
+   Sydney (remotely, 08/2021-02/2022) and Zhejiang University (in person, 02/2022-present). 
+   All projects involve machine learning model development to some extent. 
+   
+   My experience in the machine learning area is in a broad field, 
+   thus I would like to focus on one or two specific areas in the PhD study. 
 
 # Experience
 experience:
@@ -74,18 +83,16 @@ experience:
   - role: Project Manager
     time: 01/2017-12/2019
     company: China Mobile
-    details: >+
-      Bid on the government, schools and hospitals’ IT projects
-      
+    details: |+
+      Bid on the government, schools and hospitals’ IT projects.
       Project management includes budget and tracking, coordinating.
     technologies_used:
     
   - role: Project Manager
     time: 12/2015-01/2017
     company: China Unicom
-    details: >+
-      Bid on the government, schools and hospitals’ IT projects
-      
+    details: |+
+      Bid on the government, schools and hospitals’ IT projects.
       Project management includes budget and tracking, coordinating.
     technologies_used:
     
