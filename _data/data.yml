@@ -62,11 +62,11 @@ experience:
     time: 08/2021-02/2022
     company: University of Sydney
     details: |
-      *SPAM SMS identification*: fine-tuned an NLP model to classify the SPAM message, built it as Restful APIs.
+      SPAM SMS identification: fine-tuned an NLP model to classify the SPAM message, built it as Restful APIs.
       
-      *Combating news on Twitter*: I did the visualisation with node-link diagrams and thesis writing in the team.
+      Combating news on Twitter: I did the visualisation with node-link diagrams and thesis writing in the team.
       
-      *Cryptocurrency price trend prediction*: I did data collection, database management, Web UI development in the team.
+      Cryptocurrency price trend prediction: I did data collection, database management, Web UI development in the team.
 
     technologies_used: | 
       Python, Pytorch, Tensorflow, Keras, Javascript, R, MongoDB
