@@ -139,6 +139,13 @@ publications:
     conference: 
     
 projects:
+  - title: Chrome/Firefox extension for multi stock market accounts operation
+    link: "#"
+    details: |
+      04/2021-07/2021,  it's a private commercial project built for a client 
+      who wanted to place orders, buy/sell/even up, for multiple stock market 
+      accounts with a single request. Different accounts go through different IP agents.
+
   - title: Zhanjiang Waterway Supervision and Management Platform
     link: "#"
     details: 04/2018-02/2019, Zhanjiang Water Resources Bureau
