@@ -129,7 +129,7 @@ publications:
     conference: 
 
   - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services (_under review, 2022_)
-    link: "#"
+    link: https://hhua9871.shinyapps.io/Taxi_orders_history_predict_shinyApp/
     authors: __Huang Huan__, Basem Suleiman*, Waheeb Yaqub
     conference: 
 
