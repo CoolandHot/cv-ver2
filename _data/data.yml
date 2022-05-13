@@ -42,8 +42,8 @@ skills:
 
 # Profile
 profile: |
-   I discovered my interest in data science at work and plan a 
-   PhD in this direction by pursuing an MSc degree in Data Science 
+   I discovered my interest in data science at work and __plan a 
+   PhD__ in this direction by pursuing an MSc degree in Data Science 
    at the University of Sydney. I'm so fascinated by tackling real-world 
    problems with Machine Learning. To gain more research experience for applying 
    for a PhD, I have been working as a research assistant at the University of 
@@ -59,7 +59,7 @@ experience:
     time: 02/2022-Present
     company: Zhejiang University
     details: |
-      responsible for biomedical machine learning/AI models development. 
+      responsible for __biomedical machine learning/AI models development__. 
       The first project is about developing a model for Drug-Target Interaction
       prediction with Graph Neural Network combined with the attention mechanism. 
       Contribution: Graph Neural Network implementation, benchmark control group 
@@ -70,7 +70,7 @@ experience:
   - role: Research Assistant
     time: 08/2021-02/2022
     company: University of Sydney
-    details: |+
+    details: |
       __SPAM SMS identification__: fine-tuned an NLP model to classify the SPAM message, and built it as Restful APIs.
       This will be the foundation for a smartphone security app project in the future. 
       
@@ -84,7 +84,7 @@ experience:
   - role: Project Manager
     time: 01/2017-12/2019
     company: China Mobile
-    details: |+
+    details: |
       Bid on the government, schools and hospitals’ IT projects.
       Project management includes budget and tracking, coordinating.
     technologies_used:
@@ -125,17 +125,17 @@ experience:
 publications:
   - title: Protein 3D structure-based neural networks highly improve the accuracy in compound-protein binding affinity prediction (in preparation, 2022)
     link: https://www.biorxiv.org/content/10.1101/2022.04.06.487274v1
-    authors: Binjie Guo, Hanyu Zheng, Huan Huang, Haohan Jiang, Xiaodan Li, Naiyu Guan, Yanming Zuo, Yicheng Zhang, Hengfu Yang*, Xuhua Wang*
+    authors: Binjie Guo, Hanyu Zheng, __Huan Huang__, Haohan Jiang, Xiaodan Li, Naiyu Guan, Yanming Zuo, Yicheng Zhang, Hengfu Yang*, Xuhua Wang*
     conference: 
 
   - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services (under review, 2022)
     link: "#"
-    authors: Huang Huan, Basem Suleiman*, Waheeb Yaqub
+    authors: __Huang Huan__, Basem Suleiman*, Waheeb Yaqub
     conference: 
 
   - title: A guide to gather and analyse combating False News (in preparation, 2022)
     link: "#"
-    authors: Ziyuan Jing, Huang Huan, Basem Suleiman*, Waheeb Yaqub
+    authors: Ziyuan Jing, __Huang Huan__, Basem Suleiman*, Waheeb Yaqub
     conference: 
     
 projects:
