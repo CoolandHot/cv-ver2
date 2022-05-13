@@ -50,7 +50,7 @@ experience:
     time: 02/2022-Present
     company: Zhejiang University
     details: |
-      responsible for _biomedical machine learning/AI_ models development. 
+      responsible for biomedical machine learning/AI models development. 
       The first project is about developing a model for Drug-Target Interaction
       prediction with Graph Neural Network combined with the attention mechanism. 
       Contribution: Graph Neural Network implementation, benchmark control group 
@@ -76,12 +76,6 @@ experience:
     company: China Mobile
     details: |
       Bid on the government, schools and hospitals’ IT projects:
-      Zhanjiang Tourism Flow Big Data Monitoring Platform (10/2017-02/2018), 
-      Public Opinion Analysis Platform(01/2018-04/2018), Disaster Backup and Recovery 
-      System Integration for Leizhou people's Hospital (10/2017-06/2018), Leizhou 
-      Tax Data Sharing Platform (10/2017-02/2018), Team Building App for Communist 
-      (02/2018-07/2018), Zhanjiang Waterway Supervision and Management Platform
-      (04/2018-02/2019), etc.
       
       Project management includes budget and tracking, coordinating.
     technologies_used:
@@ -90,9 +84,7 @@ experience:
     time: 12/2015-01/2017
     company: China Unicom
     details: |
-      Bid on the government, schools and hospitals’ IT projects:
-      Smart Housing Construction Bureau Platform (10/2016-12/2016),
-      Guangdong Tourism Bureau Data Centre (04/2016-09/2016), etc.
+      Bid on the government, schools and hospitals’ IT projects
       
       Project management includes budget and tracking, coordinating.
     technologies_used:
@@ -129,24 +121,48 @@ publications:
     conference: 
 
   - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services
-    link: "#"
+    link:
     authors: Huang Huan, Basem Suleiman*, Waheeb Yaqub
     conference: 
 
   - title: A guide to gather and analyse combating False News
-    link: "#"
+    link:
     authors: Ziyuan Jing, Huang Huan, Basem Suleiman*, Waheeb Yaqub
     conference: 
     
 projects:
-  - title:
+  - title: Zhanjiang Tourism Flow Big Data Monitoring Platform
     link:
-    details:
+    details: 10/2017-02/2018, 
 
-  - title:
-    link: #
-    details:
+  - title: Public Opinion Analysis Platform
+    link:
+    details: 01/2018-04/2018, 
 
+  - title: Disaster Backup and Recovery System Integration for Leizhou people's Hospital
+    link:
+    details: 10/2017-06/2018, 
+    
+  - title: Leizhou Tax Data Sharing Platform
+    link:
+    details: 10/2017-02/2018, 
+    
+  - title: Team Building App for Communist
+    link:
+    details: 02/2018-07/2018, 
+    
+  - title: Zhanjiang Waterway Supervision and Management Platform
+    link:
+    details: 04/2018-02/2019, 
+    
+  - title: Smart Housing Construction Bureau Platform
+    link:
+    details: 10/2016-12/2016,
+
+  - title: Guangdong Tourism Bureau Data Centre
+    link:
+    details: 04/2016-09/2016, 
+    
 # Volunteering
 volunteering:
   - time: 
