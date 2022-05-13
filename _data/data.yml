@@ -125,7 +125,7 @@ experience:
 publications:
   - title: Protein 3D structure-based neural networks highly improve the accuracy in compound-protein binding affinity prediction (_in preparation, 2022_)
     link: https://www.biorxiv.org/content/10.1101/2022.04.06.487274v1
-    authors: Binjie Guo, Hanyu Zheng, __Huan Huang__, Haohan Jiang, Xiaodan Li, Naiyu Guan, Yanming Zuo, Yicheng Zhang, Hengfu Yang*, Xuhua Wang*
+    authors: Binjie Guo, Hanyu Zheng, __Huan Huang__, Haohan Jiang, Xiaodan Li, Naiyu Guan, Yanming Zuo, Yicheng Zhang, Hengfu Yang* , Xuhua Wang*
     conference: 
 
   - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services (_under review, 2022_)
