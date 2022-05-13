@@ -122,25 +122,29 @@ experience:
     technologies_used:
 
 publications:
-  - title: Protein 3D structure-based neural networks highly improve the accuracy in compound-protein binding affinity prediction
+  - title: Protein 3D structure-based neural networks highly improve the accuracy in compound-protein binding affinity prediction (in preparation, 2022)
     link: https://www.biorxiv.org/content/10.1101/2022.04.06.487274v1
     authors: Binjie Guo, Hanyu Zheng, Huan Huang, Haohan Jiang, Xiaodan Li, Naiyu Guan, Yanming Zuo, Yicheng Zhang, Hengfu Yang*, Xuhua Wang*
     conference: 
 
-  - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services
+  - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services (under review, 2022)
     link: "#"
     authors: Huang Huan, Basem Suleiman*, Waheeb Yaqub
     conference: 
 
-  - title: A guide to gather and analyse combating False News
+  - title: A guide to gather and analyse combating False News (in preparation, 2022)
     link: "#"
     authors: Ziyuan Jing, Huang Huan, Basem Suleiman*, Waheeb Yaqub
     conference: 
     
 projects:
-  - title: Zhanjiang Tourism Flow Big Data Monitoring Platform
+  - title: Zhanjiang Waterway Supervision and Management Platform
     link: "#"
-    details: 10/2017-02/2018, Zhanjiang Tourism Bureau
+    details: 04/2018-02/2019, Zhanjiang Water Resources Bureau
+
+  - title: Team Building App for Communist
+    link: "#"
+    details: 02/2018-07/2018, Zhanjiang Municipal Committee of the Communist
 
   - title: Public Opinion Analysis Platform
     link: "#"
@@ -154,13 +158,9 @@ projects:
     link: "#"
     details: 10/2017-02/2018, Leizhou Inland Revenue Department
     
-  - title: Team Building App for Communist
+  - title: Zhanjiang Tourism Flow Big Data Monitoring Platform
     link: "#"
-    details: 02/2018-07/2018, Zhanjiang Municipal Committee of the Communist
-    
-  - title: Zhanjiang Waterway Supervision and Management Platform
-    link: "#"
-    details: 04/2018-02/2019, Zhanjiang Water Resources Bureau
+    details: 10/2017-02/2018, Zhanjiang Tourism Bureau
     
   - title: Smart Housing Construction Bureau Platform
     link: "#"
