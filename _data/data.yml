@@ -74,8 +74,8 @@ experience:
   - role: Project Manager
     time: 01/2017-12/2019
     company: China Mobile
-    details: |
-      Bid on the government, schools and hospitals’ IT projects:
+    details: >+
+      Bid on the government, schools and hospitals’ IT projects
       
       Project management includes budget and tracking, coordinating.
     technologies_used:
@@ -83,7 +83,7 @@ experience:
   - role: Project Manager
     time: 12/2015-01/2017
     company: China Unicom
-    details: |
+    details: >+
       Bid on the government, schools and hospitals’ IT projects
       
       Project management includes budget and tracking, coordinating.
