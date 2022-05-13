@@ -63,8 +63,10 @@ experience:
     company: Microsoft
     details: |
       _SPAM SMS identification_: fine-tuned an NLP model to classify the SPAM message, built it as Restful APIs.
-      \n_Combating news on Twitter_: I did the visualisation with node-link diagrams and thesis writing in the team.
-      \n_Cryptocurrency price trend prediction_: I did data collection, database management, Web UI development in the team.
+      
+      _Combating news on Twitter_: I did the visualisation with node-link diagrams and thesis writing in the team.
+      
+      _Cryptocurrency price trend prediction_: I did data collection, database management, Web UI development in the team.
 
     technologies_used: | 
       Python, Pytorch, Tensorflow, Keras, Javascript, R, MongoDB
@@ -80,7 +82,8 @@ experience:
       Tax Data Sharing Platform (10/2017-02/2018), Team Building App for Communist 
       (02/2018-07/2018), Zhanjiang Waterway Supervision and Management Platform
       (04/2018-02/2019), etc.
-      \nProject management includes budget and tracking, coordinating.
+      
+      Project management includes budget and tracking, coordinating.
     
   - role: Project Manager
     time: 12/2015-01/2017
@@ -89,7 +92,8 @@ experience:
       Bid on the government, schools and hospitals’ IT projects:
       Smart Housing Construction Bureau Platform (10/2016-12/2016),
       Guangdong Tourism Bureau Data Centre (04/2016-09/2016), etc.
-      \nProject management includes budget and tracking, coordinating.
+      
+      Project management includes budget and tracking, coordinating.
 
     
   - role: Interior space 3D designer
@@ -109,8 +113,10 @@ experience:
     company: LG Display
     details: |
       In charge of certain models' development in Guangzhou Company
-      \nmade production plans involving related departments
-      \nAnalyse models' circuit defects, and advise on modification.
+      
+      made production plans involving related departments
+      
+      Analyse models' circuit defects, and advise on modification.
 
 
 publications:
