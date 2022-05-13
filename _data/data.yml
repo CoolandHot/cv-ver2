@@ -146,6 +146,16 @@ projects:
       who wanted to place orders, buy/sell/even up, for multiple stock market 
       accounts with a single request. Different accounts go through different IP agents.
 
+  - title: China EV Charge Station Map
+    link: https://github.com/CoolandHot/China_EV_Charge_Station_Map
+    details: |
+      04/2018-10/2019, A map for navigating users to their nearest charge station
+      (included several branches) for new energy cars in China. I developed
+      it mainly because it was difficult to find charges after I bought an
+      electronic car. It once ranked top in BAIDU search results for several 
+      months before I finally couldn't afford the server any longer. I open-source 
+      it on Github. 
+    
   - title: Zhanjiang Waterway Supervision and Management Platform
     link: "#"
     details: 04/2018-02/2019, Zhanjiang Water Resources Bureau
