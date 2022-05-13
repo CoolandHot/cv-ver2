@@ -62,11 +62,11 @@ experience:
     time: 08/2021-02/2022
     company: University of Sydney
     details: |
-      * SPAM SMS identification: fine-tuned an NLP model to classify the SPAM message, built it as Restful APIs.
+      *SPAM SMS identification*: fine-tuned an NLP model to classify the SPAM message, built it as Restful APIs.
       
-      * Combating news on Twitter: I did the visualisation with node-link diagrams and thesis writing in the team.
+      *Combating news on Twitter*: I did the visualisation with node-link diagrams and thesis writing in the team.
       
-      * Cryptocurrency price trend prediction: I did data collection, database management, Web UI development in the team.
+      *Cryptocurrency price trend prediction*: I did data collection, database management, Web UI development in the team.
 
     technologies_used: | 
       Python, Pytorch, Tensorflow, Keras, Javascript, R, MongoDB
@@ -75,7 +75,7 @@ experience:
     time: 01/2017-12/2019
     company: China Mobile
     details: |
-      * Bid on the government, schools and hospitals’ IT projects:
+      Bid on the government, schools and hospitals’ IT projects:
       Zhanjiang Tourism Flow Big Data Monitoring Platform (10/2017-02/2018), 
       Public Opinion Analysis Platform(01/2018-04/2018), Disaster Backup and Recovery 
       System Integration for Leizhou people's Hospital (10/2017-06/2018), Leizhou 
@@ -83,18 +83,18 @@ experience:
       (02/2018-07/2018), Zhanjiang Waterway Supervision and Management Platform
       (04/2018-02/2019), etc.
       
-      * Project management includes budget and tracking, coordinating.
+      Project management includes budget and tracking, coordinating.
     technologies_used:
     
   - role: Project Manager
     time: 12/2015-01/2017
     company: China Unicom
     details: |
-      * Bid on the government, schools and hospitals’ IT projects:
+      Bid on the government, schools and hospitals’ IT projects:
       Smart Housing Construction Bureau Platform (10/2016-12/2016),
       Guangdong Tourism Bureau Data Centre (04/2016-09/2016), etc.
       
-      * Project management includes budget and tracking, coordinating.
+      Project management includes budget and tracking, coordinating.
     technologies_used:
     
   - role: Interior space 3D designer
@@ -115,11 +115,11 @@ experience:
     time: 06/2012-07/2014
     company: LG Display
     details: |
-      * In charge of certain models' development in Guangzhou Company
+      In charge of certain models' development in Guangzhou Company
       
-      * made production plans involving related departments
+      made production plans involving related departments
       
-      * Analyse models' circuit defects, and advise on modification.
+      Analyse models' circuit defects, and advise on modification.
     technologies_used:
 
 publications:
