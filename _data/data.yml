@@ -60,7 +60,7 @@ experience:
   
   - role: Research Assistant
     time: 08/2021-02/2022
-    company: Microsoft
+    company: University of Sydney
     details: |
       _SPAM SMS identification_: fine-tuned an NLP model to classify the SPAM message, built it as Restful APIs.
       
@@ -84,6 +84,7 @@ experience:
       (04/2018-02/2019), etc.
       
       Project management includes budget and tracking, coordinating.
+    technologies_used:
     
   - role: Project Manager
     time: 12/2015-01/2017
@@ -94,19 +95,21 @@ experience:
       Guangdong Tourism Bureau Data Centre (04/2016-09/2016), etc.
       
       Project management includes budget and tracking, coordinating.
-
+    technologies_used:
     
   - role: Interior space 3D designer
     time: 06/2015-11/2015
     company: Yekalon
     details: |
       interior designing, using 3DsMax/Sketchup/AutoCAD.
+    technologies_used:
     
   - role: Web developer
     time: 07/2014-06/2015
     company: Freelancer
     details: |
       Websites in PHP;
+    technologies_used:
     
   - role: Circuit Engineer
     time: 06/2012-07/2014
@@ -117,7 +120,7 @@ experience:
       made production plans involving related departments
       
       Analyse models' circuit defects, and advise on modification.
-
+    technologies_used:
 
 publications:
   - title: Protein 3D structure-based neural networks highly improve the accuracy in compound-protein binding affinity prediction
