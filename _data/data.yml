@@ -1,108 +1,146 @@
-name: John Doe
+name: Huang Huan
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: coolandhot2006@163.com
+  github: CoolandHot
+  linkedin: 
+  phone: +86-13420168372
   gitlab: 
   twitter: 
 
 languages:
+  - idiom: Cantonese
+  - idiom: Mandarin
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MSc in Data Science (WAM: 83.9)
+    time: 2020-2021
+    university: University of Sydney, Australia
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BEng in Electronics Information & Technology (WAM: 79.03)
+    time: 2008-2012
+    university: Central South University, China
 
 skills:
   - category: Backend
     skill: 
       - Go
-      - Rust
+      - Python
+      - PHP
   - category: Frontend
     skill:
       - React
-      - Typescript
-  - category: DevOps
+      - Javascript
+  - category: Machine Learning
     skill:
-      - Docker
-      - Kubernetes 
+      - Python (Pandas, SciKit-Learn, Statsmodels, NumPy, SciPy, Matplotlib, TensorFlow, Keras, Pytorch, and Pytorch-lightning)
+      - R (ShinyApp)
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  .
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Research Assistant
+    time: 02/2022-Present
+    company: Zhejiang University
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      responsible for _biomedical machine learning/AI_ models development. 
+      The first project is about developing a model for Drug-Target Interaction
+      prediction with Graph Neural Network combined with the attention mechanism. 
+      Contribution: Graph Neural Network implementation, benchmark control group 
+      training, results collecting, thesis writing.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Python, Pytorch
   
-  - role: Researcher
-    time: 2016-2020
+  - role: Research Assistant
+    time: 08/2021-02/2022
     company: Microsoft
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      _SPAM SMS identification_: fine-tuned an NLP model to classify the SPAM message, built it as Restful APIs.
+      \n_Combating news on Twitter_: I did the visualisation with node-link diagrams and thesis writing in the team.
+      \n_Cryptocurrency price trend prediction_: I did data collection, database management, Web UI development in the team.
+
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Python, Pytorch, Tensorflow, Keras, Javascript, R, MongoDB
+      
+  - role: Project Manager
+    time: 01/2017-12/2019
+    company: China Mobile
+    details: |
+      Bid on the government, schools and hospitals’ IT projects:
+      Zhanjiang Tourism Flow Big Data Monitoring Platform (10/2017-02/2018), 
+      Public Opinion Analysis Platform(01/2018-04/2018), Disaster Backup and Recovery 
+      System Integration for Leizhou people's Hospital (10/2017-06/2018), Leizhou 
+      Tax Data Sharing Platform (10/2017-02/2018), Team Building App for Communist 
+      (02/2018-07/2018), Zhanjiang Waterway Supervision and Management Platform
+      (04/2018-02/2019), etc.
+      \nProject management includes budget and tracking, coordinating.
+    
+  - role: Project Manager
+    time: 12/2015-01/2017
+    company: China Unicom
+    details: |
+      Bid on the government, schools and hospitals’ IT projects:
+      Smart Housing Construction Bureau Platform (10/2016-12/2016),
+      Guangdong Tourism Bureau Data Centre (04/2016-09/2016), etc.
+      \nProject management includes budget and tracking, coordinating.
+
+    
+  - role: Interior space 3D designer
+    time: 06/2015-11/2015
+    company: Yekalon
+    details: |
+      interior designing, using 3DsMax/Sketchup/AutoCAD.
+    
+  - role: Web developer
+    time: 07/2014-06/2015
+    company: Freelancer
+    details: |
+      Websites in PHP;
+    
+  - role: Circuit Engineer
+    time: 06/2012-07/2014
+    company: LG Display
+    details: |
+      In charge of certain models' development in Guangzhou Company
+      \nmade production plans involving related departments
+      \nAnalyse models' circuit defects, and advise on modification.
+
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: Protein 3D structure-based neural networks highly improve the accuracy in compound-protein binding affinity prediction
+    link: https://www.biorxiv.org/content/10.1101/2022.04.06.487274v1
+    authors: Binjie Guo, Hanyu Zheng, Huan Huang, Haohan Jiang, Xiaodan Li, Naiyu Guan, Yanming Zuo, Yicheng Zhang, Hengfu Yang*, Xuhua Wang*
+    conference: 
 
-  - title: Second title of paper. An interesting one too.
+  - title: Hotspots Recommender: Spatio-temporal Prediction of Ride-hailing and Taxicab Services
     link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+    authors: Huang Huan, Basem Suleiman*, Waheeb Yaqub
+    conference: 
 
+  - title: A guide to gather and analyse combating False News
+    link: "#"
+    authors: Ziyuan Jing, Huang Huan, Basem Suleiman*, Waheeb Yaqub
+    conference: 
+    
 projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+  - title:
+    link:
+    details:
 
-  - title: Cool Project 
+  - title:
     link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+    details:
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  - time: 
+    role: 
+    company: 
+    details:
