@@ -1,6 +1,6 @@
 name: Huang Huan
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
@@ -133,9 +133,9 @@ publications:
 projects:
   - title: Zhanjiang Tourism Flow Big Data Monitoring Platform
     link:
-    details: 10/2017-02/2018, Zhanjiang Tourism
+    details: 10/2017-02/2018, Zhanjiang Tourism Bureau
 
-  - title: Public Opinion Analysis Platform Bureau
+  - title: Public Opinion Analysis Platform
     link:
     details: 01/2018-04/2018, Zhanjiang Municipal Human Resources and Social Security Bureau
 
