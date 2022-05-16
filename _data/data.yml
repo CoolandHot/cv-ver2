@@ -41,7 +41,7 @@ skills:
         proficiency: 90%
         color: "#525252"
       - name: SQL/noSQL
-        proficiency: 90%
+        proficiency: 70%
         color: "#d43227"
       - name: PHP
         proficiency: 70%
