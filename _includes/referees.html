@@ -1,0 +1,19 @@
+{% assign references = site.data.data.references %}
+{% if references %}
+<section class="volunteering">
+    <h2 class="title">References</h2>
+    {% for referee in references %}
+        <div class="volunteering-item">
+            <div class="role">
+                {{referee.name}}
+            </div>
+            <div class="organization">
+                {{referee.institute}}
+                <span class="time">{{referee.email}}</span>
+            </div>
+            <div class="details">{{referee.address}}</div>    
+        </div>
+        
+    {% endfor %}
+</section>
+{% endif %}
