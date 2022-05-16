@@ -95,16 +95,16 @@ experience:
     time: 01/2017-12/2019
     company: China Mobile
     details: |
-      Bid on the government, schools and hospitals’ IT projects.
-      Project management includes budget and tracking, coordinating.
+      Conducting government, schools and hospitals’ IT projects.
+      Project management includes budget, tracking, coordinating.
     technologies_used:
     
   - role: Project Manager
     time: 12/2015-01/2017
     company: China Unicom
     details: |+
-      Bid on the government, schools and hospitals’ IT projects.
-      Project management includes budget and tracking, coordinating.
+      Conducting government, schools and hospitals’ IT projects.
+      Project management includes budget, tracking, coordinating.
     technologies_used:
     
   - role: Interior space 3D designer
@@ -125,9 +125,9 @@ experience:
     time: 06/2012-07/2014
     company: LG Display
     details: |
-      In charge of certain models' development in Guangzhou Company
+      In charge of developmental models in Guangzhou Company
       
-      made production plans involving related departments
+      Responsible of production plans involving related departments
       
       Analyse models' circuit defects, and advise on modification.
     technologies_used:
@@ -227,3 +227,24 @@ projects:
 #     role: 
 #     company: 
 #     details:
+references:
+  - name: Linwei Tao
+    relationship: teammate
+    email: ltao0358@uni.sydney.edu.au
+    position: Master by Research
+    institute: University of Sydney
+    address: J12 - Computer Science Building, the University of Sydney, Sydney, New South Wales, Australia
+
+  - name: Kehui Sun
+    email: kehui@csu.edu.cn
+    relationship: mentor
+    position: Dean of School of Physics & Electronics, Central South University; Vice Chair of Hunan Instument & Control Society
+    institute: Central South University
+    address: Room 337/Room 534, Physics Building, New Campus, Central South University, Changsha, Hunan, China
+
+  - name: Wencheng Zheng
+    email: zhengwencheng@gd.chinamobile.com
+    relationship: colleague
+    position: Project Manager
+    institute: China Mobile
+    address: No. 28, People Avenue North, Chikan, Zhanjiang, Guangdong, China
