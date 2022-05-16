@@ -75,7 +75,7 @@ experience:
       Contribution: Graph Neural Network implementation, benchmark control group 
       training, results collecting, thesis writing.
     technologies_used: | 
-      Python, Pytorch
+      Python (Pytorch)
   
   - role: Research Assistant
     time: 08/2021-02/2022
@@ -89,7 +89,7 @@ experience:
       __Cryptocurrency price trend prediction__: I did data collection, database management, Web UI development in the team.
 
     technologies_used: | 
-      Python, Pytorch, Tensorflow, Keras, Javascript, R, MongoDB
+      Python (Pytorch, Tensorflow, Keras), Javascript, R, MongoDB
       
   - role: Project Manager
     time: 01/2017-12/2019
