@@ -5,10 +5,10 @@
     {% for referee in references %}
         <div class="volunteering-item">
             <div class="role">
-                {{referee.name}}
+                {{referee.name}} ({{referee.relationship}})
             </div>
             <div class="organization">
-                {{referee.institute}}
+                {{referee.position}}, {{referee.institute}}
                 <span class="time">{{referee.email}}</span>
             </div>
             <div class="details">{{referee.address}}</div>    
