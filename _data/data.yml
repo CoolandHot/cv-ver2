@@ -128,10 +128,10 @@ publications:
     authors: Binjie Guo, Hanyu Zheng, __Huan Huang__, Haohan Jiang, Xiaodan Li, Naiyu Guan, Yanming Zuo, Yicheng Zhang, Hengfu Yang* , Xuhua Wang*
     conference: 
 
-  - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services (_under review, 2022_)
+  - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services
     link: https://hhua9871.shinyapps.io/Taxi_orders_history_predict_shinyApp/
     authors: __Huang Huan__, Basem Suleiman*, Waheeb Yaqub
-    conference: 
+    conference: The 23nd International Conference on Web Information Systems Engineering (_under review, 2022_)
 
   - title: A guide to gather and analyse combating False News (_in preparation, 2022_)
     link: "#"
