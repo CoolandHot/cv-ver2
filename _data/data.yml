@@ -30,16 +30,22 @@ skills:
     skill: 
       - name: Python
         proficiency: 90%
+        color: DarkOrange
       - name: R
         proficiency: 90%
+        color: #2c3e50
       - name: Go
         proficiency: 50%
+        color: #5a68a5
       - name: Javascript
         proficiency: 90%
+        color: #525252
       - name: SQL/noSQL
         proficiency: 90%
+        color: #d43227
       - name: PHP
         proficiency: 70%
+        color: #e67e22
 
 
 # Profile
