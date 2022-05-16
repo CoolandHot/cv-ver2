@@ -28,12 +28,18 @@ education:
 skills:
   - category: Programming
     skill: 
-      - Python
-      - R
-      - Go
-      - Javascript
-      - SQL/noSQL
-      - PHP
+      - name: Python
+        proficiency: 90%
+      - name: R
+        proficiency: 90%
+      - name: Go
+        proficiency: 50%
+      - name: Javascript
+        proficiency: 90%
+      - name: SQL/noSQL
+        proficiency: 90%
+      - name: PHP
+        proficiency: 70%
 
 
 # Profile
