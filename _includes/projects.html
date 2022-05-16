@@ -1,8 +1,8 @@
 {% assign projects = site.data.data.projects %}
 {% if projects %}
 <section class="projects">
-    <h2 class="title">Work Projects</h2>
-    {% for p in projects.work_projects %}
+    <h2 class="title">Research Projects</h2>
+    {% for p in projects.research_projects %}
         <div class="project">
             <span>
                 <a class="project-link" href="{{p.link}}" target="_blank">
@@ -12,8 +12,8 @@
             <span class="details">- {{p.details}}</span>
         </div>
     {% endfor %}
-    <h2 class="title">Research Projects</h2>
-    {% for p in projects.research_projects %}
+    <h2 class="title">Work Projects</h2>
+    {% for p in projects.work_projects %}
         <div class="project">
             <span>
                 <a class="project-link" href="{{p.link}}" target="_blank">
