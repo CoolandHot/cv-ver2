@@ -135,55 +135,78 @@ publications:
     conference: 
     
 projects:
-  - title: Chrome/Firefox extension for multi stock market accounts operation
-    link: "#"
-    details: |
-      04/2021-07/2021,  it's a private commercial project built for a client 
-      who wanted to place orders, buy/sell/even up, for multiple stock market 
-      accounts with a single request. Different accounts go through different IP agents.
+  work_projects:
+    - title: Chrome/Firefox extension for multi stock market accounts operation
+      link: "#"
+      details: |
+        04/2021-07/2021,  it's a private commercial project built for a client 
+        who wanted to place orders, buy/sell/even up, for multiple stock market 
+        accounts with a single request. Different accounts go through different IP agents.
 
-  - title: China EV Charge Station Map
-    link: https://github.com/CoolandHot/China_EV_Charge_Station_Map
-    details: |
-      04/2018-10/2019, A map for navigating users to their nearest charge station
-      (included several branches) for new energy cars in China. I developed
-      it mainly because it was difficult to find charges after I bought an
-      electronic car. It once ranked top in BAIDU search results for several 
-      months before I finally couldn't afford the server any longer. I open-source 
-      it on Github. 
-    
-  - title: Zhanjiang Waterway Supervision and Management Platform
-    link: "#"
-    details: 04/2018-02/2019, Zhanjiang Water Resources Bureau
+    - title: China EV Charge Station Map
+      link: https://github.com/CoolandHot/China_EV_Charge_Station_Map
+      details: |
+        04/2018-10/2019, A map for navigating users to their nearest charge station
+        (included several branches) for new energy cars in China. I developed
+        it mainly because it was difficult to find charges after I bought an
+        electronic car. It once ranked top in BAIDU search results for several 
+        months before I finally couldn't afford the server any longer. I open-source 
+        it on Github. 
 
-  - title: Team Building App for Communist
-    link: "#"
-    details: 02/2018-07/2018, Zhanjiang Municipal Committee of the Communist
+    - title: Zhanjiang Waterway Supervision and Management Platform
+      link: "#"
+      details: 04/2018-02/2019, Zhanjiang Water Resources Bureau
 
-  - title: Public Opinion Analysis Platform
-    link: "#"
-    details: 01/2018-04/2018, Zhanjiang Municipal Human Resources and Social Security Bureau
+    - title: Team Building App for Communist
+      link: "#"
+      details: 02/2018-07/2018, Zhanjiang Municipal Committee of the Communist
 
-  - title: Disaster Backup and Recovery System Integration for Leizhou people's Hospital
-    link: "#"
-    details: 10/2017-06/2018, Leizhou people's Hospital
-    
-  - title: Leizhou Tax Data Sharing Platform
-    link: "#"
-    details: 10/2017-02/2018, Leizhou Inland Revenue Department
-    
-  - title: Zhanjiang Tourism Flow Big Data Monitoring Platform
-    link: "#"
-    details: 10/2017-02/2018, Zhanjiang Tourism Bureau
-    
-  - title: Smart Housing Construction Bureau Platform
-    link: "#"
-    details: 10/2016-12/2016, Zhanjiang Ministry of Housing and Urban-Rural Development
+    - title: Public Opinion Analysis Platform
+      link: "#"
+      details: 01/2018-04/2018, Zhanjiang Municipal Human Resources and Social Security Bureau
 
-  - title: Guangdong Tourism Bureau Data Centre
-    link: "#"
-    details: 04/2016-09/2016, Guangdong Provincial Tourism Administration
-    
+    - title: Disaster Backup and Recovery System Integration for Leizhou people's Hospital
+      link: "#"
+      details: 10/2017-06/2018, Leizhou people's Hospital
+
+    - title: Leizhou Tax Data Sharing Platform
+      link: "#"
+      details: 10/2017-02/2018, Leizhou Inland Revenue Department
+
+    - title: Zhanjiang Tourism Flow Big Data Monitoring Platform
+      link: "#"
+      details: 10/2017-02/2018, Zhanjiang Tourism Bureau
+
+    - title: Smart Housing Construction Bureau Platform
+      link: "#"
+      details: 10/2016-12/2016, Zhanjiang Ministry of Housing and Urban-Rural Development
+
+    - title: Guangdong Tourism Bureau Data Centre
+      link: "#"
+      details: 04/2016-09/2016, Guangdong Provincial Tourism Administration
+
+
+  research_projects:
+    - title: Drug-Protein binding affinity prediction with deep learning neural network
+      link: https://www.biorxiv.org/content/10.1101/2022.04.06.487274v1
+      details: 02/2022-06/2022, Zhejiang University
+      
+    - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services
+      link: https://hhua9871.shinyapps.io/Taxi_orders_history_predict_shinyApp/
+      details: 08/2021-12/2021, University of Sydney
+      
+    - title: A guide to gather and analyse combating (false vs true) news
+      link: "#"
+      details: 12/2021-02/2022, University of Sydney
+      
+    - title: Cryptocurrency price trend prediction
+      link: "#"
+      details: 11/2021-12/2021, University of Sydney
+      
+    - title: SPAM SMS identification with BERT model
+      link: "#"
+      details: 10/2021-12/2021, University of Sydney
+      
 # Volunteering
 volunteering:
   - time: 
