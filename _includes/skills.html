@@ -5,7 +5,7 @@
         <div class="title">{{sks.category}} skills</div>
         {% for sk in sks.skill%}
             <div class="skill-container">
-                <div class="skill" style="width:{{sk.proficiency}}">{{sk.name}}</div>
+                <div class="skill" style="width:{{sk.proficiency}}; background-color: {{sk.color}};">{{sk.name}}</div>
             </div>
         {% endfor %}
     {% endfor %}
