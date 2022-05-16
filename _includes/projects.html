@@ -2,7 +2,18 @@
 {% if projects %}
 <section class="projects">
     <h2 class="title">Work Projects</h2>
-    {% for p in projects %}
+    {% for p in projects.work_projects %}
+        <div class="project">
+            <span>
+                <a class="project-link" href="{{p.link}}" target="_blank">
+                    {{p.title}}
+                </a>
+            </span>
+            <span class="details">- {{p.details}}</span>
+        </div>
+    {% endfor %}
+    <h2 class="title">Research Projects</h2>
+    {% for p in projects.research_projects %}
         <div class="project">
             <span>
                 <a class="project-link" href="{{p.link}}" target="_blank">
