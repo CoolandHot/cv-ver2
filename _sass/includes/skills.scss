@@ -4,8 +4,14 @@
         margin-top: 20px;
         @include sub-header;
     }
+    .skill-container {
+        @include body-text;
+        width: 100%;
+        background-color: #ddd;
+    }
     .skill {
         @include body-text;
         margin: 10px 0;
+        background-color: DarkOrange;
     }
 }
