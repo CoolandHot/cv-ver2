@@ -228,28 +228,28 @@ projects:
 #     company: 
 #     details:
 references:
-  - name: Naiyu Guan
+  - name: Dr. Naiyu Guan
     relationship: collaborator
     email: 0621573@zju.edu.cn
     position: Postdoctoral of Veterinary Public Health
     institute: Zhejiang University
     address: China Brain Bank, School of Brain Science and Brain Medicine, Zhejiang University, Yuhangtang Rd, Xihu, Hangzhou, Zhejiang, China, 310030
 
-  - name: Linwei Tao
+  - name: Mr. Linwei Tao
     relationship: collaborator
     email: ltao0358@uni.sydney.edu.au
-    position: Master by Research
+    position: Master by Research in Computer Vision
     institute: University of Sydney
     address: J12 - Computer Science Building, the University of Sydney, Sydney, New South Wales, Australia
     
-  - name: Kehui Sun
+  - name: Prof. Kehui Sun
     email: kehui@csu.edu.cn
     relationship: mentor
     position: Dean of School of Physics & Electronics, Central South University; Vice Chair of Hunan Instument & Control Society
     institute: Central South University
     address: Room 337/Room 534, Physics Building, New Campus, Central South University, Changsha, Hunan, China
 
-  - name: Wencheng Zheng
+  - name: Mr. Wencheng Zheng
     email: zhengwencheng@gd.chinamobile.com
     relationship: colleague
     position: Project Manager
