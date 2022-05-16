@@ -30,7 +30,7 @@ skills:
     skill: 
       - name: Python
         proficiency: 90%
-        color: DarkOrange
+        color: "#3498db"
       - name: R
         proficiency: 90%
         color: "#2c3e50"
