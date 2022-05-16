@@ -9,7 +9,7 @@
                     <a href="{{pub.link}}" target="_blank">{{pub.title | markdownify}}</a>
                 </div>
                 <div class="authors">{{pub.authors | markdownify}}</div>
-                <div class="conference">{{pub.conference}}</div>   
+                <div class="conference">{{pub.conference | markdownify}}</div>   
             </div>
         {%endfor%}
     </div>
