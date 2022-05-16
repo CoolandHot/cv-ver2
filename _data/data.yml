@@ -28,11 +28,11 @@ education:
 skills:
   - category: Programming
     skill: 
-      - Python (Pandas, SciKit-Learn, Statsmodels, NumPy, SciPy, Matplotlib, TensorFlow, Keras, Pytorch, and Pytorch-lightning, etc)
-      - R (ShinyApp)
-      - Go (Crawler)
-      - Javascript (Frontend, React.js, Charts.js, Chrome Extension, etc)
-      - SQL/noSQL (MySQL, Postgresql, MongoDB)
+      - Python
+      - R
+      - Go
+      - Javascript
+      - SQL/noSQL
       - PHP
 
 
