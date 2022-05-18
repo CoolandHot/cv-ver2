@@ -17,11 +17,11 @@ languages:
   - idiom: English
 
 education:
-  - degree: MSc in Data Science (WAM 83.9)
+  - degree: MSc in Data Science (Weighted Average Marks 83.9)
     time: 02/2020-08/2021
     university: University of Sydney, Australia
 
-  - degree: BEng in Electronics Information & Technology (WAM 79.03)
+  - degree: BEng in Electronics Information & Technology (Weighted Average Marks 79.03)
     time: 09/2008-06/2012
     university: Central South University, China
 
@@ -141,7 +141,7 @@ publications:
   - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services
     link: https://hhua9871.shinyapps.io/Taxi_orders_history_predict_shinyApp/
     authors: __Huang Huan__, Basem Suleiman*, Waheeb Yaqub
-    conference: The 23nd International Conference on Web Information Systems Engineering (_under review, 2022_)
+    conference: The 23rd International Conference on Web Information Systems Engineering (_under review, 2022_)
 
   - title: A guide to gather and analyse combating False News (_in preparation, 2022_)
     link: "#"
