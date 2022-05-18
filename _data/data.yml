@@ -12,9 +12,8 @@ contact:
   twitter: 
 
 languages:
-  - idiom: Cantonese
-  - idiom: Mandarin
-  - idiom: English
+  - idiom: Chinese (Native)
+  - idiom: English (Fluent)
 
 education:
   - degree: MSc in Data Science (Weighted Average Marks 83.9)
@@ -52,16 +51,9 @@ skills:
 
 # Profile
 profile: |
-   I discovered my interest in data science at work and __plan a 
-   PhD__ in this direction by pursuing an MSc degree in Data Science 
-   at the University of Sydney. I'm so fascinated by tackling real-world 
-   problems with Machine Learning. To gain more research experience for applying 
-   for a PhD, I have been working as a research assistant at the University of 
-   Sydney (remotely, 08/2021-02/2022) and Zhejiang University (in person, 02/2022-present). 
-   All projects involve machine learning model development to some extent. 
-   
-   My experience in the machine learning area is in a broad field, 
-   thus I would like to focus on one or two specific areas in the PhD study. 
+   I’m a passionate researcher in data science with more than 7 years IT industrial experience, 
+   who is fascinated in improving the public health services with machine learning techniques. 
+   I’m a listener, thinker, planner, self-learner, dedicated and sophisticated in problem solving. 
 
 # Experience
 experience:
