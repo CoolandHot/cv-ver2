@@ -4,10 +4,10 @@ fork: false
 
 # Sidebar
 contact:
-  email: coolandhot2006@163.com
+  email: huan_huang@surrey.ac.uk
   github: CoolandHot
   linkedin: 
-  phone: (+86) 134-2016-8372
+  phone: (+44) 0753-623-1990
   gitlab: 
   twitter: 
 
@@ -70,7 +70,7 @@ experience:
       Python, R
 
   - role: Research Assistant
-    time: 02/2022-Present
+    time: 02/2022-08/2022
     company: Zhejiang University
     details: |
       responsible for __biomedical machine learning/AI models development__. 
