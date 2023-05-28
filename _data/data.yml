@@ -12,10 +12,14 @@ contact:
   twitter: 
 
 languages:
-  - idiom: Chinese (Native)
-  - idiom: English (Fluent)
+  - idiom: Chinese (Cantonese, Mandarine)
+  - idiom: English
 
 education:
+  - degree: PhD in Computer Science
+    time: 10/2022-06/2026
+    university: University of Surrey, UK
+
   - degree: MSc in Data Science (Weighted Average Marks 83.9)
     time: 02/2020-08/2021
     university: University of Sydney, Australia
@@ -51,12 +55,20 @@ skills:
 
 # Profile
 profile: |
-   My background in computer science, data science and IT spans over 7 years
-   and includes skills such as web development, database design and data visualization.
+   My background in computer science, data science and IT spans over 7 years in the industry 
+   and includes skills such as web development, database design and interactive data visualization.
    I am now a PhD student who is working in applying machine learning to enhance health services.
 
 # Experience
 experience:
+  - role: PhD student
+    time: 10/2022-Present
+    company: University of Surrey, UK
+    details: |
+      designing a new algorithm to better understand the brain tumor from the spatial transcriptomics RNA sequencing data.
+    technologies_used: | 
+      Python, R
+
   - role: Research Assistant
     time: 02/2022-Present
     company: Zhejiang University
@@ -82,10 +94,20 @@ experience:
 
     technologies_used: | 
       Python (Pytorch, Tensorflow, Keras), Javascript, HTML5, R, MongoDB
+
+  - role: MSc student
+    time: 02/2020-06/2022
+    company: University of Sydney, Australia
+    details: |
+      study modules: Principal of Data Science, Visualization, Advanced Machine Learning, Natural Language Processing, 
+      Computational Statistics, Social Science, Algorithms
+
+    technologies_used: | 
+      Python (Pytorch, Tensorflow, Keras), Javascript, HTML5, R, MongoDB
       
   - role: Project Manager
     time: 01/2017-12/2019
-    company: China Mobile
+    company: China Mobile, China
     details: |
       Conducting government, schools and hospitals’ IT projects.
       Project management includes budget, tracking, coordinating.
@@ -93,7 +115,7 @@ experience:
     
   - role: Project Manager
     time: 12/2015-01/2017
-    company: China Unicom
+    company: China Unicom, China
     details: |+
       Conducting government, schools and hospitals’ IT projects.
       Project management includes budget, tracking, coordinating.
@@ -101,7 +123,7 @@ experience:
     
   - role: Interior space 3D designer
     time: 06/2015-11/2015
-    company: Yekalon
+    company: Yekalon, China
     details: |
       interior designing, using 3DsMax/Sketchup/AutoCAD.
     technologies_used:
@@ -115,7 +137,7 @@ experience:
     
   - role: Circuit Engineer
     time: 06/2012-07/2014
-    company: LG Display
+    company: LG Display, China
     details: |
       In charge of developmental models in Guangzhou Company
       
@@ -213,37 +235,36 @@ projects:
       link: "#"
       details: 10/2021-12/2021, University of Sydney
       
-# Volunteering
 # volunteering:
 #   - time: 
 #     role: 
 #     company: 
 #     details:
-references:
-  - name: Dr. Naiyu Guan
-    relationship: collaborator
-    email: 0621573@zju.edu.cn
-    position: Postdoctoral of Veterinary Public Health
-    institute: Zhejiang University
-    address: China Brain Bank, School of Brain Science and Brain Medicine, Zhejiang University, Yuhangtang Rd, Xihu, Hangzhou, Zhejiang, China, 310030
-
-  - name: Mr. Linwei Tao
-    relationship: collaborator
-    email: ltao0358@uni.sydney.edu.au
-    position: Master by Research in Computer Vision
-    institute: University of Sydney
-    address: J12 - Computer Science Building, the University of Sydney, Sydney, New South Wales, Australia
-    
-  - name: Prof. Kehui Sun
-    email: kehui@csu.edu.cn
-    relationship: mentor
-    position: Dean of School of Physics & Electronics, Central South University; Vice Chair of Hunan Instument & Control Society
-    institute: Central South University
-    address: Room 337/Room 534, Physics Building, New Campus, Central South University, Changsha, Hunan, China
-
-  - name: Mr. Wencheng Zheng
-    email: zhengwencheng@gd.chinamobile.com
-    relationship: colleague
-    position: Project Manager
-    institute: China Mobile
-    address: No. 28, People Avenue North, Chikan, Zhanjiang, Guangdong, China
+# references:
+#   - name: Dr. Naiyu Guan
+#     relationship: collaborator
+#     email: 0621573@zju.edu.cn
+#     position: Postdoctoral of Veterinary Public Health
+#     institute: Zhejiang University
+#     address: China Brain Bank, School of Brain Science and Brain Medicine, Zhejiang University, Yuhangtang Rd, Xihu, Hangzhou, Zhejiang, China, 310030
+# 
+#   - name: Mr. Linwei Tao
+#     relationship: collaborator
+#     email: ltao0358@uni.sydney.edu.au
+#     position: Master by Research in Computer Vision
+#     institute: University of Sydney
+#     address: J12 - Computer Science Building, the University of Sydney, Sydney, New South Wales, Australia
+#     
+#   - name: Prof. Kehui Sun
+#     email: kehui@csu.edu.cn
+#     relationship: mentor
+#     position: Dean of School of Physics & Electronics, Central South University; Vice Chair of Hunan Instument & Control Society
+#     institute: Central South University
+#     address: Room 337/Room 534, Physics Building, New Campus, Central South University, Changsha, Hunan, China
+# 
+#   - name: Mr. Wencheng Zheng
+#     email: zhengwencheng@gd.chinamobile.com
+#     relationship: colleague
+#     position: Project Manager
+#     institute: China Mobile
+#     address: No. 28, People Avenue North, Chikan, Zhanjiang, Guangdong, China
