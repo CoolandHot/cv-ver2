@@ -65,7 +65,11 @@ experience:
     time: 10/2022-Present
     company: University of Surrey, UK
     details: |
-      designing a new algorithm to better understand the brain tumor from the spatial transcriptomics RNA sequencing data.
+      This project aims to integrate multi-omics data sets from brain tumour experiments using statistical methods. 
+      The goal is to advance our knowledge of brain tumour biology. I'm currently working on designing a new algorithm 
+      to better understand the brain tumor from the spatial transcriptomics RNA sequencing data.
+      The project is in collaboration with the Department of Brain Sciences at Imperial College London.
+    
     technologies_used: | 
       Python, R
 
