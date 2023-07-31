@@ -55,9 +55,12 @@ skills:
 
 # Profile
 profile: |
-   My background in computer science, data science and IT spans over 7 years in the industry 
-   and includes skills such as web development, database design and interactive data visualization.
-   I am now a PhD student who is working in applying machine learning to enhance health services.
+   I have a strong professional background in computer science, data science and IT, with over 7 years of industry experience. 
+   My skill set covers web development, database design and interactive data visualization. I am currently pursuing a PhD in 
+   interdisciplinary neuroscience research, applying state-of-the-art statistical machine learning techniques. I also have a 
+   master's degree in data science with first class honors, where I learned and applied various concepts and tools such as machine 
+   learning and deep learning with pytorch and other relevant libraries (numpy, scipy, sklearn, pandas); computational statistics with R; 
+   visualization, natural language processing and more. 
 
 # Experience
 experience:
@@ -223,7 +226,7 @@ projects:
       link: https://www.biorxiv.org/content/10.1101/2022.04.06.487274v1
       details: 02/2022-06/2022, Zhejiang University
       
-    - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services
+    - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services (DOI: 10.1007/978-3-031-20891-1_7)
       link: https://hhua9871.shinyapps.io/Taxi_orders_history_predict_shinyApp/
       details: 08/2021-12/2021, University of Sydney
       
