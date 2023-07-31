@@ -226,7 +226,7 @@ projects:
       link: https://www.biorxiv.org/content/10.1101/2022.04.06.487274v1
       details: 02/2022-06/2022, Zhejiang University
       
-    - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services (DOI : 10.1007/978-3-031-20891-1_7)
+    - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services
       link: https://hhua9871.shinyapps.io/Taxi_orders_history_predict_shinyApp/
       details: 08/2021-12/2021, University of Sydney
       
