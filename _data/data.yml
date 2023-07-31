@@ -162,7 +162,7 @@ publications:
   - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services
     link: https://hhua9871.shinyapps.io/Taxi_orders_history_predict_shinyApp/
     authors: __Huang Huan__, Basem Suleiman*, Waheeb Yaqub
-    conference:  Web Information Systems Engineering – WISE 2022 (DOI: 10.1007/978-3-031-20891-1_7)
+    conference:  Web Information Systems Engineering – WISE 2022 (DOI : 10.1007/978-3-031-20891-1_7)
 
   - title: A guide to gather and analyse combating False News (_in preparation, 2022_)
     link: "#"
@@ -222,13 +222,8 @@ projects:
 
 
   research_projects:
-    - title: Drug-Protein binding affinity prediction with deep learning neural network
-      link: https://www.biorxiv.org/content/10.1101/2022.04.06.487274v1
-      details: 02/2022-06/2022, Zhejiang University
-      
-    - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services
-      link: https://hhua9871.shinyapps.io/Taxi_orders_history_predict_shinyApp/
-      details: 08/2021-12/2021, University of Sydney
+    - title: Spatial transcriptomics sequencing data clustering method using variational inference
+      details: 10/2022 - present, University of Surrey
       
     - title: A guide to gather and analyse combating (false vs true) news
       link: "#"
