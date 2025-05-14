@@ -67,9 +67,9 @@ experience:
     time: 10/2022-Present
     company: University of Surrey, UK
     details: |
-      - *Research Project*: Leading a project to integrate multi-omics data sets from brain tumour experiments using advanced statistical methods. Developed a novel algorithm utilizing the Dirichlet Process to automatically determine the optimal number of clusters in gene expression data. This project is in collaboration with the Department of Brain Sciences at Imperial College London.
-      - *Mentorship and Tutoring*: Mentored MSc and undergraduate students, providing guidance and support in laboratory settings as a lab tutor.
-      - *Professional Development*: Currently pursuing a Postgraduate Certificate in Higher Education (PGCert HE) to enhance teaching skills and pedagogical knowledge.
+      - **Research Project**: Leading a project to integrate multi-omics data sets from brain tumour experiments using advanced statistical methods. Developed a novel algorithm utilizing the Dirichlet Process to automatically determine the optimal number of clusters in gene expression data. This project is in collaboration with the Department of Brain Sciences at Imperial College London.
+      - **Mentorship and Tutoring**: Mentored MSc and undergraduate students, providing guidance and support in laboratory settings as a lab tutor.
+      - **Professional Development**: Currently pursuing a Postgraduate Certificate in Higher Education (PGCert HE) to enhance teaching skills and pedagogical knowledge.
     
     technologies_used: | 
       Python, R
@@ -90,12 +90,12 @@ experience:
     time: 08/2021-02/2022
     company: University of Sydney
     details: |
-      __SPAM SMS identification__: fine-tuned an NLP model to classify the SPAM message, and built it as Restful APIs.
+      - __SPAM SMS identification__: fine-tuned an NLP model to classify the SPAM message, and built it as Restful APIs.
       This will be the foundation for a smartphone security app project in the future. 
       
-      __Combating news on Twitter__: I did the visualisation with node-link diagrams and thesis writing in the team.
+      - __Combating news on Twitter__: I did the visualisation with node-link diagrams and thesis writing in the team.
       
-      __Cryptocurrency price trend prediction__: I did data collection, database management, Web UI development in the team.
+      - __Cryptocurrency price trend prediction__: I did data collection, database management, Web UI development in the team.
 
     technologies_used: | 
       Python (Pytorch, Tensorflow, Keras), Javascript, HTML5, R, MongoDB
@@ -125,8 +125,8 @@ experience:
     time: 12/2015-01/2017
     company: China Unicom, China
     details: |
-      Conducting government, schools and hospitals’ IT projects.
-      Project management includes budget, tracking, coordinating.
+      - Conducting government, schools and hospitals’ IT projects.
+      - Project management includes budget, tracking, coordinating.
     technologies_used:
     
   - role: Interior space 3D designer
@@ -147,11 +147,11 @@ experience:
     time: 06/2012-07/2014
     company: LG Display, China
     details: |
-      In charge of developmental models in Guangzhou Company
+      - In charge of developmental models in Guangzhou Company
       
-      Responsible of production plans involving related departments
+      - Responsible of production plans involving related departments
       
-      Analyse models' circuit defects, and advise on modification.
+      - Analyse models' circuit defects, and advise on modification.
     technologies_used:
 
 publications:
