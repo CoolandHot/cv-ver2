@@ -55,23 +55,21 @@ skills:
 
 # Profile
 profile: |
-   I have a strong professional background in computer science, data science and IT, with over 7 years of industry experience. 
-   My skill set covers web development, database design and interactive data visualization. I am currently pursuing a PhD in 
-   interdisciplinary neuroscience research, applying state-of-the-art statistical machine learning techniques. I also have a 
-   master's degree in data science with first class honors, where I learned and applied various concepts and tools such as machine 
-   learning and deep learning with pytorch and other relevant libraries (numpy, scipy, sklearn, pandas); computational statistics with R; 
-   visualization, natural language processing and more. 
+   I have a strong professional background in computer science, data science, and IT, with over 7 years of industry experience.
+   Currently pursuing a PhD in interdisciplinary neuroscience research, I apply state-of-the-art statistical machine learning techniques.
+   I am passionate about teaching and have experience in developing and delivering educational content in Computer Science.
+   My goal is to inspire and challenge students to achieve their full potential.
+ 
 
 # Experience
 experience:
   - role: PhD student
     time: 10/2022-Present
     company: University of Surrey, UK
-    details: |
-      This project aims to integrate multi-omics data sets from brain tumour experiments using statistical methods. 
-      The goal is to advance our knowledge of brain tumour biology. I'm currently working on designing a new algorithm 
-      to better understand the brain tumor from the spatial transcriptomics RNA sequencing data.
-      The project is in collaboration with the Department of Brain Sciences at Imperial College London.
+    details:
+      - Research Project: Leading a project to integrate multi-omics data sets from brain tumour experiments using advanced statistical methods. Developed a novel algorithm utilizing the Dirichlet Process to automatically determine the optimal number of clusters in gene expression data. This project is in collaboration with the Department of Brain Sciences at Imperial College London.
+      - Mentorship and Tutoring: Mentored MSc and undergraduate students, providing guidance and support in laboratory settings as a lab tutor.
+      - Professional Development: Currently pursuing a Postgraduate Certificate in Higher Education (PGCert HE) to enhance teaching skills and pedagogical knowledge.
     
     technologies_used: | 
       Python, R
@@ -115,9 +113,12 @@ experience:
   - role: Project Manager
     time: 01/2017-12/2019
     company: China Mobile, China
-    details: |
-      Conducting government, schools and hospitals’ IT projects.
-      Project management includes budget, tracking, coordinating.
+    details:
+      - Conducting government, schools and hospitals’ IT projects.
+      - Project management includes budget, tracking, coordinating.
+      - Led training sessions for staff on new IT systems and software.
+      - Developed instructional materials and user guides.
+
     technologies_used:
     
   - role: Project Manager
