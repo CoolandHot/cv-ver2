@@ -66,7 +66,7 @@ experience:
   - role: PhD student
     time: 10/2022-Present
     company: University of Surrey, UK
-    details:
+    details: |
       - Research Project: Leading a project to integrate multi-omics data sets from brain tumour experiments using advanced statistical methods. Developed a novel algorithm utilizing the Dirichlet Process to automatically determine the optimal number of clusters in gene expression data. This project is in collaboration with the Department of Brain Sciences at Imperial College London.
       - Mentorship and Tutoring: Mentored MSc and undergraduate students, providing guidance and support in laboratory settings as a lab tutor.
       - Professional Development: Currently pursuing a Postgraduate Certificate in Higher Education (PGCert HE) to enhance teaching skills and pedagogical knowledge.
@@ -113,7 +113,7 @@ experience:
   - role: Project Manager
     time: 01/2017-12/2019
     company: China Mobile, China
-    details:
+    details: |
       - Conducting government, schools and hospitals’ IT projects.
       - Project management includes budget, tracking, coordinating.
       - Led training sessions for staff on new IT systems and software.
@@ -124,7 +124,7 @@ experience:
   - role: Project Manager
     time: 12/2015-01/2017
     company: China Unicom, China
-    details: |+
+    details: |
       Conducting government, schools and hospitals’ IT projects.
       Project management includes budget, tracking, coordinating.
     technologies_used:
