@@ -67,9 +67,9 @@ experience:
     time: 10/2022-Present
     company: University of Surrey, UK
     details: |
-      - Research Project: Leading a project to integrate multi-omics data sets from brain tumour experiments using advanced statistical methods. Developed a novel algorithm utilizing the Dirichlet Process to automatically determine the optimal number of clusters in gene expression data. This project is in collaboration with the Department of Brain Sciences at Imperial College London.
-      - Mentorship and Tutoring: Mentored MSc and undergraduate students, providing guidance and support in laboratory settings as a lab tutor.
-      - Professional Development: Currently pursuing a Postgraduate Certificate in Higher Education (PGCert HE) to enhance teaching skills and pedagogical knowledge.
+      - *Research Project*: Leading a project to integrate multi-omics data sets from brain tumour experiments using advanced statistical methods. Developed a novel algorithm utilizing the Dirichlet Process to automatically determine the optimal number of clusters in gene expression data. This project is in collaboration with the Department of Brain Sciences at Imperial College London.
+      - *Mentorship and Tutoring*: Mentored MSc and undergraduate students, providing guidance and support in laboratory settings as a lab tutor.
+      - *Professional Development*: Currently pursuing a Postgraduate Certificate in Higher Education (PGCert HE) to enhance teaching skills and pedagogical knowledge.
     
     technologies_used: | 
       Python, R
