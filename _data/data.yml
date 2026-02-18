@@ -6,129 +6,129 @@ fork: false
 contact:
   email: huan_huang@surrey.ac.uk
   github: CoolandHot
-  phone: (+44) 0753-623-1990
+  phone: "(+44) 0753-623-1990"
 
 languages:
-  - idiom: Chinese (Cantonese, Mandarin)
-  - idiom: English
+  - idiom: "Chinese (Cantonese, Mandarin)"
+  - idiom: "English"
 
 education:
-  - degree: PhD in Computer Science (Viva scheduled: March 2026)
+  - degree: "PhD in Computer Science (Viva scheduled: March 2026)"
     time: 10/2022-03/2026
-    university: University of Surrey, UK
+    university: "University of Surrey, UK"
     details: |
       Thesis: "Spatial transcriptomics sequencing data clustering using variational inference." 
       Conducted in close collaboration with the Department of Surgery and Cancer, Imperial College London. 
-      Focus on GBM tissue analysis and novel algorithmic development.
+      Focused on GBM tissue analysis and developing bespoke algorithmic solutions for spatial multi-omics.
 
-  - degree: MSc in Data Science (Weighted Average Marks 83.9)
+  - degree: "MSc in Data Science (Weighted Average Marks 83.9)"
     time: 02/2020-08/2021
-    university: University of Sydney, Australia
+    university: "University of Sydney, Australia"
 
-  - degree: BEng in Electronics, Information & Technology
+  - degree: "BEng in Electronics Information & Technology"
     time: 09/2008-06/2012
-    university: Central South University, China
+    university: "Central South University, China"
 
 profile: |
-   I am a Computer Scientist specialising in Computational Biology and Neuro-Oncology, 
-   acting as a strategic bridge between advanced algorithmic development and clinical discovery. 
-   With a PhD in CS and over 7 years of industry project management experience, I excel in 
-   transforming complex, high-dimensional spatial omics data (e.g., 10X Visium HD, GeoMx) 
-   into interpretable, interactive digital assets. My work focuses on uncovering immune 
-   mechanisms in Glioblastoma (GBM) through bespoke clustering algorithms and deploying 
-   "living results" via web-based platforms to drive both scientific insight and public fundraising impact.
+  I am a Computer Scientist specialising in Computational Biology and Neuro-Oncology, 
+  acting as a strategic bridge between advanced algorithmic development and clinical discovery. 
+  With a PhD in CS and over 7 years of industry project management experience, I excel in 
+  transforming complex, high-dimensional spatial omics data (e.g., 10X Visium HD, GeoMx) 
+  into interpretable, interactive digital assets. My work focuses on uncovering immune 
+  mechanisms in Glioblastoma (GBM) through bespoke clustering algorithms and deploying 
+  "living results" via web-based platforms to drive both scientific insight and public fundraising impact.
 
 skills:
-  - category: Bioinformatics & Spatial Omics
+  - category: "Bioinformatics & Spatial Omics"
     skill: 
-      - name: 10X Visium HD / NanoString GeoMx
+      - name: "10X Visium HD / NanoString GeoMx"
         proficiency: 95%
-      - name: Bespoke Spatial Clustering Algorithms
+      - name: "Bespoke Spatial Clustering Algorithms"
         proficiency: 95%
-      - name: Gene Regulatory Network (GRN) Inference
+      - name: "Gene Regulatory Network (GRN) Inference"
         proficiency: 85%
-      - name: Interactive Data Deployment (Shiny/Dash/HTML5)
+      - name: "Interactive Data Deployment (Shiny/Dash/HTML5)"
         proficiency: 95%
-  - category: Programming
+  - category: "Programming"
     skill: 
-      - name: Python (PyTorch/Scikit-learn)
+      - name: "Python (PyTorch/Scikit-learn)"
         proficiency: 95%
-      - name: R (Seurat/SpatialExperiment)
+      - name: "R (Seurat/SpatialExperiment)"
         proficiency: 95%
-      - name: JavaScript (React/D3.js)
+      - name: "Javascript (React/D3.js)"
         proficiency: 90%
-      - name: SQL/noSQL
+      - name: "SQL/noSQL"
         proficiency: 70%
-      - name: PHP
+      - name: "PHP"
         proficiency: 70%
 
 experience:
-  - role: PhD Researcher (Research Fellow Candidate)
+  - role: "PhD Researcher (Research Fellow Candidate)"
     time: 10/2022-Present
-    company: University of Surrey & Imperial College London
+    company: "University of Surrey & Imperial College London"
     details: |
       - **Algorithmic Leadership**: Developed a novel clustering algorithm utilising the Dirichlet Process to automatically determine optimal niches in spatial transcriptomic data.
-      - **GBM Tissue Analysis**: Lead analyst for GBM tissue cohorts using 10X Visium HD and GeoMx, delivering mechanistic insights into immune evasion.
+      - **GBM Spatial Analysis**: Lead analyst for GBM tissue cohorts using 10X Visium HD and GeoMx, delivering mechanistic insights into immune evasion[cite: 25, 61].
       - **Stakeholder Delivery**: Designed and deployed public-facing interactive web applications (HTML/Shiny) to present results to clinical collaborators and lab fundraisers.
-      - **Advanced Inference**: Performed cell-type deconvolution and transcription activity mapping to identify novel therapeutic targets in the GBM microenvironment.
+      - **Advanced Inference**: Performed cell-type deconvolution and transcription activity mapping to identify novel therapeutic targets in the GBM microenvironment[cite: 71].
       - **Reproducibility**: Established and maintained robust, containerised (Docker/Nextflow) bioinformatic workflows.
-    technologies_used: Python, R, Shiny, Docker
+    technologies_used: "Python, R, Shiny, Docker"
 
-  - role: Research Assistant (AI/ML)
+  - role: "Research Assistant (AI/ML)"
     time: 02/2022-08/2022
-    company: Zhejiang University
+    company: "Zhejiang University"
     details: |
       Developed Graph Neural Network (GNN) models with attention mechanisms for Drug-Target Interaction prediction. 
-    technologies_used: Python (PyTorch)
+    technologies_used: "Python (PyTorch)"
   
-  - role: Research Assistant
+  - role: "Research Assistant"
     time: 08/2021-02/2022
-    company: University of Sydney
+    company: "University of Sydney"
     details: |
       - Fine-tuned NLP (BERT) models for security applications.
       - Visualised complex network data using node-link diagrams.
       - Developed Web UIs for cryptocurrency trend prediction platforms.
-    technologies_used: Python, Javascript, HTML5, MongoDB
+    technologies_used: "Python, Javascript, HTML5, MongoDB"
 
-  - role: Project Manager
+  - role: "Project Manager"
     time: 01/2017-12/2019
-    company: China Mobile, China
+    company: "China Mobile, China"
     details: |
-      - Managed large-scale IT deployments for government and health sectors.
+      - Managed large-scale IT deployments for government and health sectors[cite: 28].
       - Led multi-disciplinary teams and managed significant project budgets.
 
-  - role: Project Manager
+  - role: "Project Manager"
     time: 12/2015-01/2017
-    company: China Unicom, China
+    company: "China Unicom, China"
     details: |
       - Oversaw IT project lifecycles for public institutions.
 
-  - role: Interior space 3D designer
+  - role: "Interior space 3D designer"
     time: 06/2015-11/2015
-    company: Yekalon, China
+    company: "Yekalon, China"
 
-  - role: Web developer
+  - role: "Web developer"
     time: 07/2014-06/2015
-    company: Freelancer (PHP Development)
+    company: "Freelancer (PHP Development)"
 
-  - role: Circuit Engineer
+  - role: "Circuit Engineer"
     time: 06/2012-07/2014
-    company: LG Display, China
+    company: "LG Display, China"
     details: |
       - Analysed circuit defects and advised on production modifications for development models.
 
 publications:
-  - title: Protein 3D structure-based neural networks highly improve accuracy in compound-protein binding affinity prediction
-    link: https://www.biorxiv.org/content/10.1101/2022.04.06.487274v1
-    authors: Binjie Guo, Hanyu Zheng, Huan Huang, et al.
+  - title: "Protein 3D structure-based neural networks highly improve accuracy in compound-protein binding affinity prediction"
+    link: "https://www.biorxiv.org/content/10.1101/2022.04.06.487274v1"
+    authors: "Binjie Guo, Hanyu Zheng, Huan Huang, et al."
 
   - title: "Hotspots Recommender: Spatio-temporal Prediction of Ride-hailing and Taxicab Services"
-    link: https://hhua9871.shinyapps.io/Taxi_orders_history_predict_shinyApp/
-    conference: WISE 2022
+    link: "https://hhua9871.shinyapps.io/Taxi_orders_history_predict_shinyApp/"
+    conference: "WISE 2022"
 
 projects:
   research_projects:
-    - title: Bespoke Spatial Transcriptomics Clustering using Variational Inference
-      details: 10/2022 - present, University of Surrey/Imperial
-    - title: Interactive GBM Immune Mechanism Dashboard
-      details: Deployment of high-dimensional results for fundraising and public engagement.
+    - title: "Bespoke Spatial Transcriptomics Clustering using Variational Inference"
+      details: "10/2022 - present, University of Surrey/Imperial"
+    - title: "Interactive GBM Immune Mechanism Dashboard"
+      details: "Deployment of high-dimensional results for fundraising and public engagement."
