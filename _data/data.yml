@@ -19,7 +19,7 @@ education:
     details: |
       Thesis: "Spatial transcriptomics sequencing data clustering using variational inference." 
       Conducted in close collaboration with the Department of Surgery and Cancer, Imperial College London. 
-      Focused on GBM tissue analysis and developing bespoke algorithmic solutions for spatial multi-omics.
+      Lead researcher on GBM tissue analysis and developer of bespoke algorithmic solutions for spatial multi-omics.
 
   - degree: "MSc in Data Science (Weighted Average Marks 83.9)"
     time: 02/2020-08/2021
@@ -32,7 +32,7 @@ education:
 profile: |
   I am a Computer Scientist specialising in Computational Biology and Neuro-Oncology, 
   acting as a strategic bridge between advanced algorithmic development and clinical discovery. 
-  With a PhD in CS and over 7 years of industry project management experience, I excel in 
+  With a PhD in Computer Science and over 7 years of industry project management experience, I excel in 
   transforming complex, high-dimensional spatial omics data (e.g., 10X Visium HD, GeoMx) 
   into interpretable, interactive digital assets. My work focuses on uncovering immune 
   mechanisms in Glioblastoma (GBM) through bespoke clustering algorithms and deploying 
@@ -43,24 +43,36 @@ skills:
     skill: 
       - name: "10X Visium HD / NanoString GeoMx"
         proficiency: 95%
+        color: "#3498db"
       - name: "Bespoke Spatial Clustering Algorithms"
         proficiency: 95%
+        color: "#2c3e50"
       - name: "Gene Regulatory Network (GRN) Inference"
         proficiency: 85%
+        color: "#1abc9c"
       - name: "Interactive Data Deployment (Shiny/Dash/HTML5)"
         proficiency: 95%
+        color: "#e67e22"
   - category: "Programming"
     skill: 
       - name: "Python (PyTorch/Scikit-learn)"
         proficiency: 95%
+        color: "#3498db"
       - name: "R (Seurat/SpatialExperiment)"
         proficiency: 95%
+        color: "#2c3e50"
       - name: "Javascript (React/D3.js)"
         proficiency: 90%
+        color: "#525252"
       - name: "SQL/noSQL"
         proficiency: 70%
+        color: "#d43227"
       - name: "PHP"
         proficiency: 70%
+        color: "#e67e22"
+      - name: "Go"
+        proficiency: 50%
+        color: "#5a68a5"
 
 experience:
   - role: "PhD Researcher (Research Fellow Candidate)"
@@ -68,11 +80,11 @@ experience:
     company: "University of Surrey & Imperial College London"
     details: |
       - **Algorithmic Leadership**: Developed a novel clustering algorithm utilising the Dirichlet Process to automatically determine optimal niches in spatial transcriptomic data.
-      - **GBM Spatial Analysis**: Lead analyst for GBM tissue cohorts using 10X Visium HD and GeoMx, delivering mechanistic insights into immune evasion[cite: 25, 61].
-      - **Stakeholder Delivery**: Designed and deployed public-facing interactive web applications (HTML/Shiny) to present results to clinical collaborators and lab fundraisers.
-      - **Advanced Inference**: Performed cell-type deconvolution and transcription activity mapping to identify novel therapeutic targets in the GBM microenvironment[cite: 71].
-      - **Reproducibility**: Established and maintained robust, containerised (Docker/Nextflow) bioinformatic workflows.
-    technologies_used: "Python, R, Shiny, Docker"
+      - **GBM Spatial Analysis**: Lead analyst for GBM tissue cohorts in the Department of Surgery and Cancer, utilising 10X Visium HD and GeoMx to deliver mechanistic insights into immune evasion.
+      - **Stakeholder Delivery**: Designed and deployed public-facing interactive web applications (HTML/Shiny) to visualise results for clinical collaborators and lab fundraisers.
+      - **Advanced Inference**: Performed cell-type deconvolution and transcription activity mapping to identify novel therapeutic targets in the GBM microenvironment.
+      - **Reproducibility**: Established and maintained robust, containerised (Docker/Nextflow) bioinformatic workflows for high-plex spatial data.
+    technologies_used: "Python, R, Shiny, Docker, Nextflow"
 
   - role: "Research Assistant (AI/ML)"
     time: 02/2022-08/2022
@@ -85,50 +97,55 @@ experience:
     time: 08/2021-02/2022
     company: "University of Sydney"
     details: |
-      - Fine-tuned NLP (BERT) models for security applications.
-      - Visualised complex network data using node-link diagrams.
-      - Developed Web UIs for cryptocurrency trend prediction platforms.
-    technologies_used: "Python, Javascript, HTML5, MongoDB"
+      - Fine-tuned NLP (BERT) models for security applications and built RESTful APIs.
+      - Visualised complex network data using node-link diagrams for Twitter news analysis.
+      - Developed Web UIs and database management for cryptocurrency trend prediction platforms.
+    technologies_used: "Python, Javascript, HTML5, MongoDB, R"
 
   - role: "Project Manager"
     time: 01/2017-12/2019
     company: "China Mobile, China"
     details: |
-      - Managed large-scale IT deployments for government and health sectors[cite: 28].
-      - Led multi-disciplinary teams and managed significant project budgets.
+      - Led large-scale IT deployments for government, schools, and hospitals.
+      - Managed end-to-end project lifecycles, including budgets, tracking, and multi-disciplinary coordination.
+      - Developed instructional materials and led staff training sessions on new software systems.
 
   - role: "Project Manager"
     time: 12/2015-01/2017
     company: "China Unicom, China"
     details: |
-      - Oversaw IT project lifecycles for public institutions.
+      - Managed IT infrastructure projects and coordinated between technical teams and public stakeholders.
 
   - role: "Interior space 3D designer"
     time: 06/2015-11/2015
     company: "Yekalon, China"
+    details: "Interior designing using 3DsMax, SketchUp, and AutoCAD."
 
   - role: "Web developer"
     time: 07/2014-06/2015
-    company: "Freelancer (PHP Development)"
+    company: "Freelancer"
+    details: "Full-stack web development primarily using PHP."
 
   - role: "Circuit Engineer"
     time: 06/2012-07/2014
     company: "LG Display, China"
     details: |
-      - Analysed circuit defects and advised on production modifications for development models.
+      - Managed developmental models and production plans.
+      - Analysed circuit defects and provided technical advice for model modifications.
 
 publications:
   - title: "Protein 3D structure-based neural networks highly improve accuracy in compound-protein binding affinity prediction"
     link: "https://www.biorxiv.org/content/10.1101/2022.04.06.487274v1"
-    authors: "Binjie Guo, Hanyu Zheng, Huan Huang, et al."
+    authors: "Binjie Guo, Hanyu Zheng, Huan Huang, Haohan Jiang, Xiaodan Li, Naiyu Guan, Yanming Zuo, Yicheng Zhang, Hengfu Yang*, Xuhua Wang*"
 
   - title: "Hotspots Recommender: Spatio-temporal Prediction of Ride-hailing and Taxicab Services"
     link: "https://hhua9871.shinyapps.io/Taxi_orders_history_predict_shinyApp/"
-    conference: "WISE 2022"
+    authors: "Huang Huan, Basem Suleiman*, Waheeb Yaqub"
+    conference: "Web Information Systems Engineering – WISE 2022"
 
 projects:
   research_projects:
     - title: "Bespoke Spatial Transcriptomics Clustering using Variational Inference"
       details: "10/2022 - present, University of Surrey/Imperial"
     - title: "Interactive GBM Immune Mechanism Dashboard"
-      details: "Deployment of high-dimensional results for fundraising and public engagement."
+      details: "Full-stack deployment of high-dimensional results for fundraising and public engagement."
