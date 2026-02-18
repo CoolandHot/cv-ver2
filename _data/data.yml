@@ -6,268 +6,129 @@ fork: false
 contact:
   email: huan_huang@surrey.ac.uk
   github: CoolandHot
-  linkedin: 
   phone: (+44) 0753-623-1990
-  gitlab: 
-  twitter: 
 
 languages:
-  - idiom: Chinese (Cantonese, Mandarine)
+  - idiom: Chinese (Cantonese, Mandarin)
   - idiom: English
 
 education:
-  - degree: PhD in Computer Science
-    time: 10/2022-06/2026
+  - degree: PhD in Computer Science (Viva scheduled: March 2026)
+    time: 10/2022-03/2026
     university: University of Surrey, UK
+    details: |
+      Thesis: "Spatial transcriptomics sequencing data clustering using variational inference." 
+      Conducted in close collaboration with the Department of Surgery and Cancer, Imperial College London. 
+      Focus on GBM tissue analysis and novel algorithmic development.
 
   - degree: MSc in Data Science (Weighted Average Marks 83.9)
     time: 02/2020-08/2021
     university: University of Sydney, Australia
 
-  - degree: BEng in Electronics Information & Technology (Weighted Average Marks 79.03)
+  - degree: BEng in Electronics, Information & Technology
     time: 09/2008-06/2012
     university: Central South University, China
 
+profile: |
+   I am a Computer Scientist specialising in Computational Biology and Neuro-Oncology, 
+   acting as a strategic bridge between advanced algorithmic development and clinical discovery. 
+   With a PhD in CS and over 7 years of industry project management experience, I excel in 
+   transforming complex, high-dimensional spatial omics data (e.g., 10X Visium HD, GeoMx) 
+   into interpretable, interactive digital assets. My work focuses on uncovering immune 
+   mechanisms in Glioblastoma (GBM) through bespoke clustering algorithms and deploying 
+   "living results" via web-based platforms to drive both scientific insight and public fundraising impact.
+
 skills:
+  - category: Bioinformatics & Spatial Omics
+    skill: 
+      - name: 10X Visium HD / NanoString GeoMx
+        proficiency: 95%
+      - name: Bespoke Spatial Clustering Algorithms
+        proficiency: 95%
+      - name: Gene Regulatory Network (GRN) Inference
+        proficiency: 85%
+      - name: Interactive Data Deployment (Shiny/Dash/HTML5)
+        proficiency: 95%
   - category: Programming
     skill: 
-      - name: Python
+      - name: Python (PyTorch/Scikit-learn)
+        proficiency: 95%
+      - name: R (Seurat/SpatialExperiment)
+        proficiency: 95%
+      - name: JavaScript (React/D3.js)
         proficiency: 90%
-        color: "#3498db"
-      - name: R
-        proficiency: 90%
-        color: "#2c3e50"
-      - name: Go
-        proficiency: 50%
-        color: "#5a68a5"
-      - name: Javascript
-        proficiency: 90%
-        color: "#525252"
       - name: SQL/noSQL
         proficiency: 70%
-        color: "#d43227"
       - name: PHP
         proficiency: 70%
-        color: "#e67e22"
-      - name: C/C++
-        proficiency: 30%
-        color: "#f1ac18"
 
-# Profile
-profile: |
-   I have a strong professional background in computer science, data science, and IT, with over 7 years of industry experience.
-   Currently pursuing a PhD in interdisciplinary neuroscience research, I apply state-of-the-art statistical machine learning techniques.
-   I am passionate about teaching and have experience in developing and delivering educational content in Computer Science.
-   My goal is to inspire and challenge students to achieve their full potential.
- 
-
-# Experience
 experience:
-  - role: PhD student
+  - role: PhD Researcher (Research Fellow Candidate)
     time: 10/2022-Present
-    company: University of Surrey, UK
+    company: University of Surrey & Imperial College London
     details: |
-      - **Research Project**: Leading a project to integrate multi-omics data sets from brain tumour experiments using advanced statistical methods. Developed a novel algorithm utilizing the Dirichlet Process to automatically determine the optimal number of clusters in gene expression data. This project is in collaboration with the Department of Brain Sciences at Imperial College London.
-      - **Mentorship and Tutoring**: Mentored MSc and undergraduate students, providing guidance and support in laboratory settings as a lab tutor.
-      - **Professional Development**: Currently pursuing a Postgraduate Certificate in Higher Education (PGCert HE) to enhance teaching skills and pedagogical knowledge.
-    
-    technologies_used: | 
-      Python, R
+      - **Algorithmic Leadership**: Developed a novel clustering algorithm utilising the Dirichlet Process to automatically determine optimal niches in spatial transcriptomic data.
+      - **GBM Tissue Analysis**: Lead analyst for GBM tissue cohorts using 10X Visium HD and GeoMx, delivering mechanistic insights into immune evasion.
+      - **Stakeholder Delivery**: Designed and deployed public-facing interactive web applications (HTML/Shiny) to present results to clinical collaborators and lab fundraisers.
+      - **Advanced Inference**: Performed cell-type deconvolution and transcription activity mapping to identify novel therapeutic targets in the GBM microenvironment.
+      - **Reproducibility**: Established and maintained robust, containerised (Docker/Nextflow) bioinformatic workflows.
+    technologies_used: Python, R, Shiny, Docker
 
-  - role: Research Assistant
+  - role: Research Assistant (AI/ML)
     time: 02/2022-08/2022
     company: Zhejiang University
     details: |
-      responsible for __biomedical machine learning/AI models development__. 
-      The first project is about developing a model for Drug-Target Interaction
-      prediction with Graph Neural Network combined with the attention mechanism. 
-      Contribution: Graph Neural Network implementation, benchmark control group 
-      training, results collecting, thesis writing.
-    technologies_used: | 
-      Python (Pytorch)
+      Developed Graph Neural Network (GNN) models with attention mechanisms for Drug-Target Interaction prediction. 
+    technologies_used: Python (PyTorch)
   
   - role: Research Assistant
     time: 08/2021-02/2022
     company: University of Sydney
     details: |
-      - __SPAM SMS identification__: fine-tuned an NLP model to classify the SPAM message, and built it as Restful APIs.
-      This will be the foundation for a smartphone security app project in the future. 
-      
-      - __Combating news on Twitter__: I did the visualisation with node-link diagrams and thesis writing in the team.
-      
-      - __Cryptocurrency price trend prediction__: I did data collection, database management, Web UI development in the team.
+      - Fine-tuned NLP (BERT) models for security applications.
+      - Visualised complex network data using node-link diagrams.
+      - Developed Web UIs for cryptocurrency trend prediction platforms.
+    technologies_used: Python, Javascript, HTML5, MongoDB
 
-    technologies_used: | 
-      Python (Pytorch, Tensorflow, Keras), Javascript, HTML5, R, MongoDB
-
-  - role: MSc student
-    time: 02/2020-06/2022
-    company: University of Sydney, Australia
-    details: |
-      study modules: Principal of Data Science, Visualization, Advanced Machine Learning, Natural Language Processing, 
-      Computational Statistics, Social Science, Algorithms
-
-    technologies_used: | 
-      Python (Pytorch, Tensorflow, Keras), Javascript, HTML5, R, MongoDB
-      
   - role: Project Manager
     time: 01/2017-12/2019
     company: China Mobile, China
     details: |
-      - Conducting government, schools and hospitals’ IT projects.
-      - Project management includes budget, tracking, coordinating.
-      - Led training sessions for staff on new IT systems and software.
-      - Developed instructional materials and user guides.
+      - Managed large-scale IT deployments for government and health sectors.
+      - Led multi-disciplinary teams and managed significant project budgets.
 
-    technologies_used:
-    
   - role: Project Manager
     time: 12/2015-01/2017
     company: China Unicom, China
     details: |
-      - Conducting government, schools and hospitals’ IT projects.
-      - Project management includes budget, tracking, coordinating.
-    technologies_used:
-    
+      - Oversaw IT project lifecycles for public institutions.
+
   - role: Interior space 3D designer
     time: 06/2015-11/2015
     company: Yekalon, China
-    details: |
-      interior designing, using 3DsMax/Sketchup/AutoCAD.
-    technologies_used:
-    
+
   - role: Web developer
     time: 07/2014-06/2015
-    company: Freelancer
-    details: |
-      Websites in PHP;
-    technologies_used:
-    
+    company: Freelancer (PHP Development)
+
   - role: Circuit Engineer
     time: 06/2012-07/2014
     company: LG Display, China
     details: |
-      - In charge of developmental models in Guangzhou Company
-      
-      - Responsible of production plans involving related departments
-      
-      - Analyse models' circuit defects, and advise on modification.
-    technologies_used:
+      - Analysed circuit defects and advised on production modifications for development models.
 
 publications:
-  - title: Protein 3D structure-based neural networks highly improve the accuracy in compound-protein binding affinity prediction (_in preparation, 2022_)
+  - title: Protein 3D structure-based neural networks highly improve accuracy in compound-protein binding affinity prediction
     link: https://www.biorxiv.org/content/10.1101/2022.04.06.487274v1
-    authors: Binjie Guo, Hanyu Zheng, __Huan Huang__, Haohan Jiang, Xiaodan Li, Naiyu Guan, Yanming Zuo, Yicheng Zhang, Hengfu Yang* , Xuhua Wang*
-    conference: 
+    authors: Binjie Guo, Hanyu Zheng, Huan Huang, et al.
 
-  - title: Hotspots Recommender：Spatio-temporal Prediction of Ride-hailing and Taxicab Services
+  - title: "Hotspots Recommender: Spatio-temporal Prediction of Ride-hailing and Taxicab Services"
     link: https://hhua9871.shinyapps.io/Taxi_orders_history_predict_shinyApp/
-    authors: __Huang Huan__, Basem Suleiman*, Waheeb Yaqub
-    conference:  Web Information Systems Engineering – WISE 2022 (DOI：10.1007/978-3-031-20891-1_7)
+    conference: WISE 2022
 
-  - title: A guide to gather and analyse combating False News (_in preparation, 2022_)
-    link: "#"
-    authors: Ziyuan Jing, __Huang Huan__, Basem Suleiman*, Waheeb Yaqub
-    conference: 
-    
 projects:
-  work_projects:
-    - title: Chrome/Firefox extension for multi stock market accounts operation
-      link: "#"
-      details: |
-        04/2021-07/2021,  it's a private commercial project built for a client 
-        who wanted to place orders, buy/sell/even up, for multiple stock market 
-        accounts with a single request. Different accounts go through different IP agents.
-
-    - title: China EV Charge Station Map
-      link: https://github.com/CoolandHot/China_EV_Charge_Station_Map
-      details: |
-        04/2018-10/2019, A map for navigating users to their nearest charge station
-        (included several branches) for new energy cars in China. I developed
-        it mainly because it was difficult to find charges after I bought an
-        electronic car. It once ranked top in BAIDU search results for several 
-        months before I finally couldn't afford the server any longer. I open-source 
-        it on Github. 
-
-    - title: Zhanjiang Waterway Supervision and Management Platform
-      link: "#"
-      details: 04/2018-02/2019, Zhanjiang Water Resources Bureau
-
-    - title: Team Building App for Communist
-      link: "#"
-      details: 02/2018-07/2018, Zhanjiang Municipal Committee of the Communist
-
-    - title: Public Opinion Analysis Platform
-      link: "#"
-      details: 01/2018-04/2018, Zhanjiang Municipal Human Resources and Social Security Bureau
-
-    - title: Disaster Backup and Recovery System Integration for Leizhou people's Hospital
-      link: "#"
-      details: 10/2017-06/2018, Leizhou people's Hospital
-
-    - title: Leizhou Tax Data Sharing Platform
-      link: "#"
-      details: 10/2017-02/2018, Leizhou Inland Revenue Department
-
-    - title: Zhanjiang Tourism Flow Big Data Monitoring Platform
-      link: "#"
-      details: 10/2017-02/2018, Zhanjiang Tourism Bureau
-
-    - title: Smart Housing Construction Bureau Platform
-      link: "#"
-      details: 10/2016-12/2016, Zhanjiang Ministry of Housing and Urban-Rural Development
-
-    - title: Guangdong Tourism Bureau Data Centre
-      link: "#"
-      details: 04/2016-09/2016, Guangdong Provincial Tourism Administration
-
-
   research_projects:
-    - title: Spatial transcriptomics sequencing data clustering method using variational inference
-      details: 10/2022 - present, University of Surrey
-      
-    - title: A guide to gather and analyse combating (false vs true) news
-      link: "#"
-      details: 12/2021-02/2022, University of Sydney
-      
-    - title: Cryptocurrency price trend prediction
-      link: "#"
-      details: 11/2021-12/2021, University of Sydney
-      
-    - title: SPAM SMS identification with BERT model
-      link: "#"
-      details: 10/2021-12/2021, University of Sydney
-      
-# volunteering:
-#   - time: 
-#     role: 
-#     company: 
-#     details:
-# references:
-#   - name: Dr. Naiyu Guan
-#     relationship: collaborator
-#     email: 0621573@zju.edu.cn
-#     position: Postdoctoral of Veterinary Public Health
-#     institute: Zhejiang University
-#     address: China Brain Bank, School of Brain Science and Brain Medicine, Zhejiang University, Yuhangtang Rd, Xihu, Hangzhou, Zhejiang, China, 310030
-# 
-#   - name: Mr. Linwei Tao
-#     relationship: collaborator
-#     email: ltao0358@uni.sydney.edu.au
-#     position: Master by Research in Computer Vision
-#     institute: University of Sydney
-#     address: J12 - Computer Science Building, the University of Sydney, Sydney, New South Wales, Australia
-#     
-#   - name: Prof. Kehui Sun
-#     email: kehui@csu.edu.cn
-#     relationship: mentor
-#     position: Dean of School of Physics & Electronics, Central South University; Vice Chair of Hunan Instument & Control Society
-#     institute: Central South University
-#     address: Room 337/Room 534, Physics Building, New Campus, Central South University, Changsha, Hunan, China
-# 
-#   - name: Mr. Wencheng Zheng
-#     email: zhengwencheng@gd.chinamobile.com
-#     relationship: colleague
-#     position: Project Manager
-#     institute: China Mobile
-#     address: No. 28, People Avenue North, Chikan, Zhanjiang, Guangdong, China
+    - title: Bespoke Spatial Transcriptomics Clustering using Variational Inference
+      details: 10/2022 - present, University of Surrey/Imperial
+    - title: Interactive GBM Immune Mechanism Dashboard
+      details: Deployment of high-dimensional results for fundraising and public engagement.
