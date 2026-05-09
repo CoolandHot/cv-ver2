@@ -171,4 +171,6 @@ projects:
     - title: Wechat Official Account to teach Office skills
       link: "#"
       details: |
-        Create and share self-developed tutorials on Excel and Word to enhance office productivity, leveraging VBA, macros, and advanced Excel formulas, along with Python-based automation and web scraping.
+        Create and share self-developed tutorials on Excel and Word to enhance office productivity, 
+        leveraging VBA, macros, advanced Excel formulas and PowerBI, along with Python-based automation
+        and web scraping.
