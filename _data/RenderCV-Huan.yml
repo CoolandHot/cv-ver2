@@ -1,0 +1,174 @@
+cv:
+  # open https://rendercv.com/?billing=subscription for real-time rendering
+  name: Huan Huang
+  headline: Computer Scientist specializing in Computational Biology & Neuro-Oncology
+  location: London, UK
+  email: huan.huang@imperial.ac.uk
+  phone: "+44 7536 231990"
+  # photo:
+  # website: https://coolandhot.github.io/
+  social_networks:
+    - network: GitHub
+      username: CoolandHot
+  custom_connections:
+  sections:
+    summary:
+      - I am a Computer Scientist specialising in Computational Biology and
+        Neuro-Oncology, acting as a strategic bridge between advanced
+        algorithmic development and clinical discovery. Recently passed my PhD Viva in June 2026. Currently on a student visa and seeking a part-time role that can start immediately. With over 7 years of industry project management experience, I
+        excel in transforming complex, high-dimensional spatial omics data
+        (e.g., 10X Visium HD, GeoMx) into interpretable, interactive digital
+        assets. My work focuses on uncovering immune mechanisms in glioblastoma
+        (GBM) through bespoke clustering algorithms and deploying "interactive
+        results" via web-based platforms.
+    education:
+      - institution: University of Surrey
+        area: Computer Science
+        degree: "PhD (Viva Passed: 2026-06)"
+        start_date: 2022-10
+        end_date: 2026-06
+        location: Guildford, UK
+        highlights:
+          - 'Co-funded by the University of Surrey & Imperial College London.'
+          - '**Algorithmic Leadership**: Developed a novel clustering algorithm
+            utilising the Dirichlet Process to automatically determine optimal
+            niches in spatial transcriptomic data'
+          - '**GBM Spatial Analysis**: Lead analyst for GBM tissue cohorts in
+            the Department of Surgery and Cancer, utilising 10X Visium HD and
+            GeoMx to deliver mechanistic insights into immune evasion'
+          - '**Stakeholder Delivery**: Designed and deployed public-facing
+            interactive web applications (HTML/Shiny) to visualise results for
+            clinical collaborators and lab fundraisers'
+          - '**Advanced Inference**: Performed cell-type deconvolution and
+            transcription activity mapping to identify novel therapeutic targets
+            in the GBM microenvironment'
+          - '**Reproducibility**: Established and maintained robust,
+            containerised (Docker/Nextflow) bioinformatic workflows for
+            high-plex spatial data'
+      - institution: University of Sydney
+        area: Data Science
+        degree: MSc
+        start_date: 2020-02
+        end_date: 2021-08
+        location: Sydney, Australia
+        highlights:
+          - Weighted Average Marks 83.9
+      - institution: Central South University
+        area: Electronics Information & Technology
+        degree: BEng
+        start_date: 2008-09
+        end_date: 2012-06
+        location: Changsha, China
+    experience:
+      - company: Zhejiang University
+        position: Research Assistant (AI/ML)
+        start_date: 2022-02
+        end_date: 2022-08
+        location: Hangzhou, China
+        highlights:
+          - Developed Graph Neural Network (GNN) models with attention
+            mechanisms for Drug-Target Interaction prediction
+      - company: University of Sydney
+        position: Research Assistant
+        start_date: 2021-08
+        end_date: 2022-02
+        location: Sydney, Australia
+        highlights:
+          - Fine-tuned NLP (BERT) models for security applications and built
+            RESTful APIs
+          - Visualised complex network data using node-link diagrams for Twitter
+            news analysis
+          - Developed Web UIs and database management for cryptocurrency trend
+            prediction platforms
+      - company: China Mobile
+        position: Project Manager
+        start_date: 2017-01
+        end_date: 2019-12
+        location: China
+        highlights:
+          - Led large-scale IT deployments for government, schools, and hospitals
+          - Managed end-to-end project lifecycles, including budgets, tracking,
+            and multi-disciplinary coordination
+          - Developed instructional materials and led staff training sessions on
+            new software systems
+      - company: China Unicom
+        position: Project Manager
+        start_date: 2015-12
+        end_date: 2017-01
+        location: China
+        highlights:
+          - Managed IT infrastructure projects and coordinated between technical
+            teams and public stakeholders
+      - company: LG Display
+        position: Circuit Engineer
+        start_date: 2012-06
+        end_date: 2014-07
+        location: China
+        highlights:
+          - Managed developmental models and production plans
+          - Analysed circuit defects and provided technical advice for model
+            modifications
+    publications:
+      - title: Protein 3D structure-based neural networks highly improve accuracy in
+          compound-protein binding affinity prediction
+        authors:
+          - Binjie Guo
+          - Hanyu Zheng
+          - '**Huan Huang**'
+          - Haohan Jiang
+          - Xiaodan Li
+          - Naiyu Guan
+          - Yanming Zuo
+          - Yicheng Zhang
+          - Hengfu Yang
+          - Xuhua Wang
+        url: https://www.biorxiv.org/content/10.1101/2022.04.06.487274v1
+        journal: bioRxiv
+        date: 2022-04
+      - title: 'Hotspots Recommender: Spatio-temporal Prediction of Ride-hailing and
+          Taxicab Services'
+        authors:
+          - '**Huan Huang**'
+          - Basem Suleiman
+          - Waheeb Yaqub
+        url: https://hhua9871.shinyapps.io/Taxi_orders_history_predict_shinyApp/
+        journal: Web Information Systems Engineering – WISE 2022
+        date: 2022
+    projects:
+      - name: '[Bulk RNA-seq Processing & Analysis Report](https://demo-dipg-transcriptomics-huan.pages.dev/reports/summary_report_demo)'
+        summary: A complete report pipeline for processing bulk RNA-seq data (FASTQ to gene expression counts) with integrated downstream analysis modules.
+        highlights:
+          - Provide an interactive report for clinicians/non-technicians to explore the data analysis result.
+          - Implemented modules for Differential Gene Expression, Pathway Enrichment, and Transcription Factor Activity Inference
+          - Included advanced metabolic profiling and automated summary report generation
+        start_date: 2026-04
+        end_date: 2026-05
+      - name: Interactive GBM Immune Mechanism Dashboard (only real data available, no demo)
+        summary: Full-stack deployment of high-dimensional results for fundraising and
+          public engagement.
+        start_date: 2026-01
+        end_date: 2026-05
+      - name: '[10X Genomics Visium HD spatial transcriptomics visualiser](https://10x-visium-hd-spatial-explorer.pages.dev/)'
+        summary: A high-performance visual explorer for 10X Genomics Visium HD spatial transcriptomics data. This interactive single-page application (SPA) enables multi-scale inspection of cellular polygon segmentations and expression heatmap overlays.
+        start_date: 2025-10
+        end_date: 2026-03
+
+      - name: '[China EV Charge Station Map](https://github.com/CoolandHot/China_EV_Charge_Station_Map)'
+        start_date: 2018-04
+        end_date: 2019-10
+        highlights:
+          - A map for navigating users to their nearest charge station for new
+            energy cars in China
+          - Ranked top in BAIDU search results for several months
+      - name: Wechat Official Account
+        summary: Create and share self-developed tutorials on Excel and Word to enhance
+          office productivity, leveraging VBA, macros, and Python-based
+          automation.
+        start_date: 2017-01
+        end_date: 2020-02
+    skills:
+      - label: Bioinformatics & Spatial Omics
+        details: 10X Visium HD, NanoString GeoMx, Bespoke Spatial Clustering, Cell type Inference, GRN Inference, Interactive Data Deployment (Shiny/Dash)
+      - label: Programming
+        details: Python (PyTorch/Scikit-learn), R (Seurat/SpatialExperiment), Javascript
+          (React/D3.js), SQL/noSQL, PHP, Go
