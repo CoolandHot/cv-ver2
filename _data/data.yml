@@ -4,22 +4,26 @@ fork: false
 
 # Sidebar
 contact:
-  email: huan_huang@surrey.ac.uk
+  email: huan.huang@imperial.ac.uk
   github: CoolandHot
-  phone: "(+44) 0753-623-1990"
+  phone: "+44 7536 231990"
 
 languages:
   - idiom: "Chinese (Cantonese, Mandarin)"
   - idiom: "English"
 
 education:
-  - degree: "PhD in Computer Science (Viva scheduled: March 2026)"
-    time: 10/2022-03/2026
+  - degree: "PhD in Computer Science (Viva Passed: June 2026)"
+    time: 10/2022-06/2026
     university: "University of Surrey, UK"
     details: |
-      Thesis: "Spatial transcriptomics sequencing data clustering using variational inference." 
-      Conducted in close collaboration with the Department of Surgery and Cancer, Imperial College London. 
-      Lead researcher on GBM tissue analysis and developer of bespoke algorithmic solutions for spatial multi-omics.
+      Co-funded by the University of Surrey & Imperial College London.
+      - **Algorithmic Leadership**: Developed a novel clustering algorithm utilising the Dirichlet Process to automatically determine optimal niches in spatial transcriptomic data.
+      - **GBM Spatial Analysis**: Lead analyst for GBM tissue cohorts in the Department of Surgery and Cancer, utilising 10X Visium HD and GeoMx to deliver mechanistic insights into immune evasion.
+      - **Stakeholder Delivery**: Designed and deployed public-facing interactive web applications (HTML/Shiny) to visualise results for clinical collaborators and lab fundraisers.
+      - **Advanced Inference**: Performed cell-type deconvolution and transcription activity mapping to identify novel therapeutic targets in the GBM microenvironment.
+      - **Reproducibility**: Established and maintained robust, containerised (Docker/Nextflow) bioinformatic workflows for high-plex spatial data.
+    technologies_used: "Python, R, Shiny, Docker, Nextflow"
 
   - degree: "MSc in Data Science (Weighted Average Marks 83.9)"
     time: 02/2020-08/2021
@@ -32,11 +36,12 @@ education:
 profile: |
   I am a Computer Scientist specialising in Computational Biology and Neuro-Oncology, 
   acting as a strategic bridge between advanced algorithmic development and clinical discovery. 
-  With a PhD in Computer Science and over 7 years of industry project management experience, I excel in 
-  transforming complex, high-dimensional spatial omics data (e.g., 10X Visium HD, GeoMx) 
+  Recently passed my PhD Viva in June 2026. Currently on a student visa and seeking a part-time 
+  role that can start immediately. With over 7 years of industry project management experience, I 
+  excel in transforming complex, high-dimensional spatial omics data (e.g., 10X Visium HD, GeoMx) 
   into interpretable, interactive digital assets. My work focuses on uncovering immune 
   mechanisms in Glioblastoma (GBM) through bespoke clustering algorithms and deploying 
-  "living results" via web-based platforms to drive both scientific insight and public fundraising impact.
+  "interactive results" via web-based platforms.
 
 skills:
   - category: "Bioinformatics & Spatial Omics"
@@ -50,6 +55,9 @@ skills:
       - name: "Gene Regulatory Network (GRN) Inference"
         proficiency: 85%
         color: "#1abc9c"
+      - name: "Cell-type Inference & Deconvolution"
+        proficiency: 90%
+        color: "#9b59b6"
       - name: "Interactive Data Deployment (Shiny/Dash/HTML5)"
         proficiency: 95%
         color: "#e67e22"
@@ -75,17 +83,6 @@ skills:
         color: "#5a68a5"
 
 experience:
-  - role: "PhD Researcher (Research Fellow Candidate)"
-    time: 10/2022-Present
-    company: "University of Surrey & Imperial College London"
-    details: |
-      - **Algorithmic Leadership**: Developed a novel clustering algorithm utilising the Dirichlet Process to automatically determine optimal niches in spatial transcriptomic data.
-      - **GBM Spatial Analysis**: Lead analyst for GBM tissue cohorts in the Department of Surgery and Cancer, utilising 10X Visium HD and GeoMx to deliver mechanistic insights into immune evasion.
-      - **Stakeholder Delivery**: Designed and deployed public-facing interactive web applications (HTML/Shiny) to visualise results for clinical collaborators and lab fundraisers.
-      - **Advanced Inference**: Performed cell-type deconvolution and transcription activity mapping to identify novel therapeutic targets in the GBM microenvironment.
-      - **Reproducibility**: Established and maintained robust, containerised (Docker/Nextflow) bioinformatic workflows for high-plex spatial data.
-    technologies_used: "Python, R, Shiny, Docker, Nextflow"
-
   - role: "Research Assistant (AI/ML)"
     time: 02/2022-08/2022
     company: "Zhejiang University"
@@ -146,9 +143,18 @@ publications:
 projects:
   research_projects:
     - title: "Bespoke Spatial Transcriptomics Clustering using Variational Inference"
-      details: "10/2022 - present, University of Surrey/Imperial"
+      details: "10/2022 - 06/2026, University of Surrey/Imperial"
     - title: "Interactive GBM Immune Mechanism Dashboard"
-      details: "Full-stack deployment of high-dimensional results for fundraising and public engagement."
+      details: |
+        01/2026 - 05/2026. Full-stack deployment of high-dimensional results for fundraising and public engagement (only real data available, no public demo).
+    - title: "Bulk RNA-seq Processing & Analysis Report"
+      link: "https://demo-dipg-transcriptomics-huan.pages.dev/reports/summary_report_demo"
+      details: |
+        04/2026 - 05/2026. A complete pipeline for processing bulk RNA-seq data (FASTQ to gene expression counts) with integrated downstream analysis modules (DGE, Pathway Enrichment, Transcription Factor Activity, metabolic profiling). Designed as an interactive report for clinicians and non-technicians to explore results.
+    - title: "10X Genomics Visium HD Spatial Transcriptomics Visualiser"
+      link: "https://10x-visium-hd-spatial-explorer.pages.dev/"
+      details: |
+        10/2025 - 03/2026. A high-performance interactive single-page application (SPA) enabling multi-scale inspection of cellular polygon segmentations and expression heatmap overlays for 10X Genomics Visium HD spatial transcriptomics data.
       
   work_projects:
     - title: Chrome/Firefox extension for multi stock market accounts operation
@@ -171,6 +177,6 @@ projects:
     - title: Wechat Official Account to teach Office skills
       link: "#"
       details: |
-        Create and share self-developed tutorials on Excel and Word to enhance office productivity, 
+        01/2017 - 02/2020. Create and share self-developed tutorials on Excel and Word to enhance office productivity, 
         leveraging VBA, macros, advanced Excel formulas and PowerBI, along with Python-based automation
         and web scraping.
