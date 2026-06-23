@@ -17,13 +17,9 @@ education:
     time: 10/2022-06/2026
     university: "University of Surrey, UK"
     details: |
-      Co-funded by the University of Surrey & Imperial College London.
-      - **Algorithmic Leadership**: Developed a novel clustering algorithm utilising the Dirichlet Process to automatically determine optimal niches in spatial transcriptomic data.
-      - **GBM Spatial Analysis**: Lead analyst for GBM tissue cohorts in the Department of Surgery and Cancer, utilising 10X Visium HD and GeoMx to deliver mechanistic insights into immune evasion.
-      - **Stakeholder Delivery**: Designed and deployed public-facing interactive web applications (HTML/Shiny) to visualise results for clinical collaborators and lab fundraisers.
-      - **Advanced Inference**: Performed cell-type deconvolution and transcription activity mapping to identify novel therapeutic targets in the GBM microenvironment.
-      - **Reproducibility**: Established and maintained robust, containerised (Docker/Nextflow) bioinformatic workflows for high-plex spatial data.
-    technologies_used: "Python, R, Shiny, Docker, Nextflow"
+      Thesis: "Spatial transcriptomics sequencing data clustering using variational inference." 
+      Co-funded by the University of Surrey & Imperial College London. 
+      Lead researcher on GBM tissue analysis and developer of bespoke algorithmic solutions for spatial multi-omics.
 
   - degree: "MSc in Data Science (Weighted Average Marks 83.9)"
     time: 02/2020-08/2021
@@ -83,6 +79,17 @@ skills:
         color: "#5a68a5"
 
 experience:
+  - role: "PhD Researcher (Research Fellow Candidate)"
+    time: 10/2022-06/2026
+    company: "University of Surrey & Imperial College London"
+    details: |
+      - **Algorithmic Leadership**: Developed a novel clustering algorithm utilising the Dirichlet Process to automatically determine optimal niches in spatial transcriptomic data.
+      - **GBM Spatial Analysis**: Lead analyst for GBM tissue cohorts in the Department of Surgery and Cancer, utilising 10X Visium HD and GeoMx to deliver mechanistic insights into immune evasion.
+      - **Stakeholder Delivery**: Designed and deployed public-facing interactive web applications (HTML/Shiny) to visualise results for clinical collaborators and lab fundraisers.
+      - **Advanced Inference**: Performed cell-type deconvolution and transcription activity mapping to identify novel therapeutic targets in the GBM microenvironment.
+      - **Reproducibility**: Established and maintained robust, containerised (Docker/Nextflow) bioinformatic workflows for high-plex spatial data.
+    technologies_used: "Python, R, Shiny, Docker, Nextflow"
+
   - role: "Research Assistant (AI/ML)"
     time: 02/2022-08/2022
     company: "Zhejiang University"
