@@ -43,8 +43,8 @@ cv:
             transcription activity mapping to identify novel therapeutic targets
             in the GBM microenvironment'
           - '**Reproducibility**: Established and maintained robust,
-            containerised (Docker/Nextflow) bioinformatic workflows for
-            high-plex spatial data'
+            containerised (Docker) bioinformatic workflows for
+            high-plex spatial data in remote development environments'
       - institution: University of Sydney
         area: Data Science
         degree: MSc
