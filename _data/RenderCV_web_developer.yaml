@@ -94,6 +94,20 @@ cv:
         highlights:
           - Managed IT infrastructure projects and coordinated between technical
             teams and public stakeholders
+      - company: Yekalon Co., Ltd.
+        position: Interior Designer
+        start_date: 2015-08
+        end_date: 2015-11
+        location: China
+        highlights:
+          - Interior design for meeting rooms, offices, and showrooms, including 3D rendering and layout planning
+      - company: A small foreign trading company for office furniture
+        position: Saleman
+        start_date: 2014-08
+        end_date: 2015-07
+        location: China
+        highlights:
+          - Selling office furniture to foreign clients, managing orders and logistics
       - company: LG Display
         position: Circuit Engineer
         start_date: 2012-06
