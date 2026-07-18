@@ -1,0 +1,220 @@
+cv:
+  # open https://rendercv.com/?billing=subscription for real-time rendering
+  name: Huan Huang
+  headline: Computer Scientist with project management experience
+  location: London, UK
+  email: coolandhot2006@gmail.com
+  phone: "+44 7536 231990"
+  # photo:
+  # website: https://coolandhot.github.io/
+  social_networks:
+    - network: GitHub
+      username: CoolandHot
+  custom_connections:
+  sections:
+    summary:
+      - I am an IT professional and Computer Scientist with a PhD co-funded by
+        the University of Surrey and Imperial College London, combining deep
+        technical expertise with extensive project management experience across
+        major telecommunications organisations. I have a strong working
+        knowledge of data governance frameworks, having handled sensitive
+        clinical and genomic datasets under strict institutional ethical
+        oversight throughout my doctoral research.
+      - With over 7 years of industry experience including IT project management
+        at China Mobile and China Unicom, where I led large-scale IT
+        deployments for government institutions, hospitals, and schools. I have
+        directly implemented data-handling policies, coordinated multi-disciplinary
+        technical teams, and delivered staff training programmes on new IT
+        systems. My doctoral work further deepened this governance mindset, where
+        managing sensitive patient-level genomic data required rigorous data
+        access controls, audit trails, reproducible and containerised
+        workflows (Docker), and compliance with institutional data protection
+        protocols.
+      - I am now seeking to apply this combined expertise in this Data Protection Officer (IT), where I can bridge technical IT understanding with regulatory compliance to protect
+        organisational information assets and build a culture of data privacy
+        awareness. Having identified GDPR and data protection regulation as a
+        key requirement for this role, I have proactively enrolled in an online
+        GDPR and Data Protection certification course to formalise and
+        consolidate my practical compliance experience within the appropriate
+        regulatory framework.
+
+    education:
+      - institution: University of Surrey
+        area: Computer Science
+        degree: PhD
+        start_date: 2022-10
+        end_date: 2026-06
+        location: Guildford, UK
+        highlights:
+          - 'Co-funded by the University of Surrey & Imperial College London.'
+          - '**Algorithmic Leadership**: Developed a novel clustering algorithm
+            utilising the Dirichlet Process to automatically determine optimal
+            immune niches in spatial transcriptomic data'
+          - '**GBM Spatial Analysis**: Lead analyst for GBM tissue cohorts
+            (10X Visium HD & GeoMx), performing cell-type deconvolution and
+            transcription factor mapping to identify novel therapeutic targets
+            in the tumour microenvironment'
+          - '**Reproducibility & Secure Data Architecture**: Established
+            containerised (Docker) bioinformatic workflows enforcing data
+            integrity, access segregation, and audit-ready reproducibility
+            for high-sensitivity patient-level datasets'
+          - '**Stakeholder Communication & Data Governance**: Designed
+            public-facing interactive web applications (Shiny/HTML) for
+            clinical collaborators and fundraisers; coordinated cross-institutional data sharing and DMP compliance across the University
+            of Surrey and Imperial College London'
+
+      - institution: University of Sydney
+        area: Data Science
+        degree: MSc
+        start_date: 2020-02
+        end_date: 2021-08
+        location: Sydney, Australia
+        highlights:
+          - Weighted Average Marks 83.9 — modules included Statistical Data
+            Science, Machine Learning and Data Mining, Advanced Data Models,
+            Natural Language Processing, Data Visualisation, and Data
+            Engineering, providing a rigorous technical foundation for
+            understanding data flows, data architecture risks, and
+            privacy-by-design principles
+
+      - institution: Central South University
+        area: Electronics Information & Technology
+        degree: BEng
+        start_date: 2008-09
+        end_date: 2012-06
+        location: Changsha, China
+
+    experience:
+      - company: China Mobile
+        position: IT Project Manager & Data Governance Lead
+        start_date: 2017-01
+        end_date: 2019-12
+        location: China
+        highlights:
+          - '**IT Policy Development**: Developed and implemented IT operational
+            policies and data-handling procedures for large-scale deployments
+            across government agencies, hospitals, and educational institutions
+            — environments with stringent data sensitivity requirements'
+          - '**Data Protection Training**: Designed and delivered staff training
+            programmes and instructional materials on new IT systems and
+            data-handling practices, building organisational awareness of
+            secure data management'
+          - '**Compliance & Audit Coordination**: Managed end-to-end project
+            lifecycles including compliance checkpoints, budget tracking, and
+            regulatory reporting to government stakeholders — directly
+            analogous to DPO audit and reporting responsibilities'
+          - '**Incident & Risk Management**: Coordinated multi-disciplinary
+            technical teams to identify, escalate, and resolve IT infrastructure
+            risks, maintaining service continuity and data integrity across
+            sensitive public-sector environments'
+          - '**Stakeholder Liaison**: Served as primary point of contact between
+            technical IT teams and external public-sector clients (government,
+            hospitals, schools), managing expectations and ensuring contractual
+            data obligations were met'
+
+      - company: China Unicom
+        position: IT Project Manager
+        start_date: 2015-12
+        end_date: 2017-01
+        location: China
+        highlights:
+          - '**IT Infrastructure Governance**: Managed IT infrastructure
+            projects with responsibility for coordinating data flows between
+            technical teams and public stakeholders, ensuring data handling
+            aligned with contractual and regulatory obligations'
+          - '**Cross-functional Coordination**: Acted as liaison between
+            internal technical teams and external public-sector clients,
+            managing data access protocols and ensuring compliance with
+            project-specific data governance requirements'
+
+      - company: Zhejiang University
+        position: Research Assistant (AI/ML)
+        start_date: 2022-02
+        end_date: 2022-08
+        location: Hangzhou, China
+        highlights:
+          - Developed Graph Neural Network (GNN) models for Drug-Target
+            Interaction prediction, working with sensitive biomedical datasets
+            under institutional data governance protocols
+
+      - company: University of Sydney
+        position: Research Assistant
+        start_date: 2021-08
+        end_date: 2022-02
+        location: Sydney, Australia
+        highlights:
+          - '**Security-Focused NLP**: Fine-tuned BERT models for cybersecurity
+            applications, demonstrating understanding of data sensitivity and
+            secure system design'
+          - Built RESTful APIs and database management systems with attention
+            to data integrity and access control
+
+      - company: LG Display
+        position: Circuit Engineer
+        start_date: 2012-06
+        end_date: 2014-07
+        location: China
+        highlights:
+          - Managed developmental model documentation and production data,
+            maintaining accurate records and technical audit trails
+
+    projects:
+      - name: Clinical Genomic Data Governance Framework (PhD Research)
+        summary: Designed and maintained a comprehensive data governance framework
+          for handling sensitive patient-level GBM (brain tumour) genomic and
+          spatial transcriptomic datasets across two institutions (University
+          of Surrey & Imperial College London), in full compliance with the
+          University Research Data Management Plan (DMP).
+        start_date: 2022-10
+        end_date: 2026-06
+        highlights:
+          - '**DMP Compliance**: Managed all research data in accordance with
+            university, legislative, funder, and ethics guidelines, retaining
+            only data necessary for transparency, validation, or long-term re-use'
+          - '**Data Retention & Open Access**: Ensured publication data was
+            accessible within the required 12-month window, retained for 10+
+            years, registered in the University Open Research Repository
+            (Esploro), and accompanied by a compliant Data Access Statement (DAS)'
+          - '**Access Controls & Anonymisation**: Applied data minimisation,
+            access segregation, and anonymisation protocols across containerised
+            (Docker) audit-ready pipelines for sensitive patient-level datasets'
+          - '**Cross-Institutional Governance**: Coordinated data sharing
+            agreements and compliance reporting across the University of Surrey
+            and Imperial College London'
+
+      - name: IT Systems Deployment — Government & Healthcare Sector (China Mobile)
+        summary: Led end-to-end IT deployments for government agencies, hospitals,
+          and schools, with full responsibility for data policy implementation,
+          staff training, and regulatory compliance reporting.
+        start_date: 2017-01
+        end_date: 2019-12
+        highlights:
+          - Developed data-handling policies and procedures for sensitive
+            public-sector environments
+          - Delivered staff training and awareness programmes on secure IT
+            system usage
+          - Managed compliance checkpoints and produced audit documentation
+            for government clients
+
+      - name: '[Bulk RNA-seq Processing & Analysis Report](https://demo-dipg-transcriptomics-huan.pages.dev/reports/summary_report_demo)'
+        summary: End-to-end secure data pipeline for processing sensitive clinical
+          genomic data (FASTQ to gene expression), with integrated access
+          controls and interactive reporting for clinical stakeholders.
+        start_date: 2026-04
+        end_date: 2026-05
+        
+    skills:
+      - label: Data Governance & Compliance
+        details: Institutional Ethics Compliance, Data Access Controls, Anonymisation
+          Protocols, Audit Trail Management, Data Privacy Impact Assessment
+          (DPIA) Frameworks, Sensitive Data Handling (Clinical/Genomic)
+      - label: IT Project Management
+        details: End-to-End IT Lifecycle Management, Policy & Procedure Development,
+          Staff Training & Awareness Programmes, Multi-stakeholder Liaison,
+          Risk & Incident Coordination, Government & Healthcare Sector Deployments
+      - label: Technical IT Skills
+        details: Python, R, JavaScript, SQL/NoSQL, Docker (Containerised Workflows),
+          RESTful APIs, Secure Data Pipelines, Cloud Environments
+      - label: Stakeholder Communication
+        details: Clinical Collaborator Liaison, Non-Technical Audience Communication,
+          Regulatory Reporting, Interactive Data Dashboards (Shiny/Dash/D3.js)

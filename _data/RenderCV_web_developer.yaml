@@ -1,0 +1,299 @@
+cv:
+  # open https://rendercv.com/?billing=subscription for real-time rendering
+  name: Huan Huang
+  headline: Computer Scientist specializing in Computational Biology & Neuro-Oncology
+  location: London, UK
+  email: coolandhot2006@gmail.com
+  phone: "+44 7536 231990"
+  # photo:
+  # website: https://coolandhot.github.io/
+  social_networks:
+    - network: GitHub
+      username: CoolandHot
+  custom_connections:
+  sections:
+    summary:
+      - I am a Full-Stack Web Developer and Computer Scientist with a PhD co-funded by the University of Surrey and Imperial College London, bringing a rare combination of rigorous scientific thinking and end-to-end engineering capability. With over 7 years of professional experience spanning AI/ML research, large-scale IT project management at major telecommunications companies including China Mobile and China Unicom, and freelance web development for small business owners, I have consistently delivered robust, scalable, and user-centred digital solutions across diverse and demanding environments.
+      - My technical stack spans the full development lifecycle — from crafting responsive, data-driven front-ends using React.js and D3.js, to building and maintaining back-end services and RESTful APIs, containerised workflows, and both SQL and NoSQL database architectures. I am equally fluent in Python, R, and JavaScript, and have hands-on experience deploying applications in remote and cloud-based development environments. A defining strength of my work is translating highly complex, high-dimensional data — such as spatial omics datasets — into clean, interactive, and accessible web interfaces that serve non-technical end users, demonstrating my ability to bridge the gap between sophisticated back-end logic and intuitive front-end experience.
+      - My approach to web development is rooted in a philosophy forged during my Data Science Capstone Project and refined through years of research engineering: that the most impactful digital products are those that make the complex feel effortless. Whether architecting a full-stack application from scratch, optimising data pipelines, or designing interactive visualisation dashboards, I bring the same discipline, curiosity, and attention to detail that defines both great science and great software.
+    education:
+      - institution: University of Surrey
+        area: Computer Science
+        degree: "PhD (Viva Passed: 2026-06)"
+        start_date: 2022-10
+        end_date: 2026-06
+        location: Guildford, UK
+        highlights:
+          - 'Co-funded by the University of Surrey & Imperial College London.'
+          - '**Algorithmic Leadership**: Developed a novel clustering algorithm
+            utilising the Dirichlet Process to automatically determine optimal
+            niches in spatial transcriptomic data'
+          - '**GBM Spatial Analysis**: Lead analyst for GBM tissue cohorts in
+            the Department of Surgery and Cancer, utilising 10X Visium HD and
+            GeoMx to deliver mechanistic insights into immune evasion'
+          - '**Stakeholder Delivery**: Designed and deployed public-facing
+            interactive web applications (HTML/Shiny) to visualise results for
+            clinical collaborators and lab fundraisers'
+          - '**Advanced Inference**: Performed cell-type deconvolution and
+            transcription activity mapping to identify novel therapeutic targets
+            in the GBM microenvironment'
+          - '**Reproducibility**: Established and maintained robust,
+            containerised (Docker) bioinformatic workflows for
+            high-plex spatial data in remote development environments'
+      - institution: University of Sydney
+        area: Data Science
+        degree: MSc
+        start_date: 2020-02
+        end_date: 2021-08
+        location: Sydney, Australia
+        highlights:
+          - Weighted Average Marks 83.9, Statistical Data Science, Machine Learning and Data Mining, Advanced Data Models, Natural Language Processing
+      - institution: Central South University
+        area: Electronics Information & Technology
+        degree: BEng
+        start_date: 2008-09
+        end_date: 2012-06
+        location: Changsha, China
+    experience:
+      - company: Zhejiang University
+        position: Research Assistant (AI/ML)
+        start_date: 2022-02
+        end_date: 2022-08
+        location: Hangzhou, China
+        highlights:
+          - Developed Graph Neural Network (GNN) models with attention
+            mechanisms for Drug-Target Interaction prediction
+      - company: University of Sydney
+        position: Research Assistant
+        start_date: 2021-08
+        end_date: 2022-02
+        location: Sydney, Australia
+        highlights:
+          - Fine-tuned NLP (BERT) models for security applications and built
+            RESTful APIs
+          - Visualised complex network data using node-link diagrams for Twitter
+            news analysis
+          - Developed Web UIs and database management for cryptocurrency trend
+            prediction platforms
+      - company: China Mobile
+        position: Project Manager
+        start_date: 2017-01
+        end_date: 2019-12
+        location: China
+        highlights:
+          - Led large-scale IT deployments for government, schools, and hospitals
+          - Managed end-to-end project lifecycles, including budgets, tracking,
+            and multi-disciplinary coordination
+          - Developed instructional materials and led staff training sessions on
+            new software systems
+      - company: China Unicom
+        position: Project Manager
+        start_date: 2015-12
+        end_date: 2017-01
+        location: China
+        highlights:
+          - Managed IT infrastructure projects and coordinated between technical
+            teams and public stakeholders
+      - company: LG Display
+        position: Circuit Engineer
+        start_date: 2012-06
+        end_date: 2014-07
+        location: China
+        highlights:
+          - Managed developmental models and production plans
+          - Analysed circuit defects and provided technical advice for model
+            modifications
+    publications:
+      - title: Protein 3D structure-based neural networks highly improve accuracy in
+          compound-protein binding affinity prediction
+        authors:
+          - Binjie Guo
+          - Hanyu Zheng
+          - '**Huan Huang**'
+          - Haohan Jiang
+          - Xiaodan Li
+          - Naiyu Guan
+          - Yanming Zuo
+          - Yicheng Zhang
+          - Hengfu Yang
+          - Xuhua Wang
+        url: https://www.biorxiv.org/content/10.1101/2022.04.06.487274v1
+        journal: bioRxiv
+        date: 2022-04
+      - title: 'Hotspots Recommender: Spatio-temporal Prediction of Ride-hailing and
+          Taxicab Services'
+        authors:
+          - '**Huan Huang**'
+          - Basem Suleiman
+          - Waheeb Yaqub
+        url: https://hhua9871.shinyapps.io/Taxi_orders_history_predict_shinyApp/
+        journal: Web Information Systems Engineering – WISE 2022
+        date: 2022
+    projects:
+      - name: '[Bulk RNA-seq Processing & Analysis Report](https://demo-dipg-transcriptomics-huan.pages.dev/reports/summary_report_demo)'
+        summary: A complete report pipeline for processing bulk RNA-seq data (FASTQ to gene expression counts) with integrated downstream analysis modules.
+        highlights:
+          - Provide an interactive report for clinicians/non-technicians to explore the data analysis result.
+          - Implemented modules for Differential Gene Expression, Pathway Enrichment, and Transcription Factor Activity Inference
+          - Included advanced metabolic profiling and automated summary report generation
+        start_date: 2026-04
+        end_date: 2026-05
+      - name: Interactive GBM Immune Mechanism Dashboard (only real data available, no demo)
+        summary: Full-stack deployment of high-dimensional results for fundraising and public engagement.
+        start_date: 2026-01
+        end_date: present
+      - name: '[Ingenetics Pathway Analysis and Gene Regulatory Network Visualizer](https://pathway-over-representation-analysis-grn-visualizer.pages.dev/)'
+        summary: A web-based visualizer for pathway over-representation analysis and gene regulatory network inference results. This interactive single-page application (SPA) allows users to explore enriched pathways, visualize gene regulatory networks, and gain insights into complex biological processes.
+        start_date: 2026-05
+        end_date: present
+      - name: '[10X Genomics Visium HD spatial transcriptomics visualiser](https://10x-visium-hd-spatial-explorer.pages.dev/)'
+        summary: A high-performance visual explorer for 10X Genomics Visium HD spatial transcriptomics data. This interactive single-page application (SPA) enables multi-scale inspection of cellular polygon segmentations and expression heatmap overlays.
+        start_date: 2025-10
+        end_date: present
+
+      - name: '[China EV Charge Station Map](https://github.com/CoolandHot/China_EV_Charge_Station_Map)'
+        start_date: 2018-04
+        end_date: 2019-10
+        highlights:
+          - A map for navigating users to their nearest charge station for new
+            energy cars in China
+          - Ranked top in BAIDU search results for several months
+      - name: Wechat Official Account
+        summary: Create and share self-developed tutorials on Excel and Word to enhance
+          office productivity, leveraging VBA, macros, and Python-based
+          automation.
+        start_date: 2017-01
+        end_date: 2020-02
+    skills:
+      - label: Bioinformatics & Spatial Omics
+        details: 10X Visium HD, NanoString GeoMx, Bespoke Spatial Clustering, Cell type Inference, GRN Inference, Interactive Data Deployment (Shiny/Dash)
+      - label: Programming
+        details: Python (PyTorch/Scikit-learn), R (Seurat/SpatialExperiment), Javascript
+          (React/D3.js), SQL/noSQL, PHP, Go
+
+design:
+  theme: harvard
+  page:
+    size: us-letter
+    top_margin: 0.5in
+    bottom_margin: 0.5in
+    left_margin: 0.5in
+    right_margin: 0.5in
+    show_footer: true
+    show_top_note: false
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    headline: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
+  typography:
+    line_spacing: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+    font_family:
+      body: XCharter
+      name: XCharter
+      headline: XCharter
+      connections: XCharter
+      section_titles: XCharter
+    font_size:
+      body: 10pt
+      name: 25pt
+      headline: 10pt
+      connections: 9pt
+      section_titles: 1.3em
+    small_caps:
+      name: false
+      headline: false
+      connections: false
+      section_titles: false
+    bold:
+      name: true
+      headline: false
+      connections: false
+      section_titles: true
+  links:
+    underline: false
+    show_external_link_icon: false
+  header:
+    alignment: center
+    photo_width: 3.5cm
+    photo_position: left
+    photo_space_left: 0.4cm
+    photo_space_right: 0.4cm
+    space_below_name: 0.5cm
+    space_below_headline: 0.5cm
+    space_below_connections: 0.5cm
+    connections:
+      phone_number_format: national
+      hyperlink: true
+      show_icons: false
+      display_urls_instead_of_usernames: false
+      separator: •
+      space_between_connections: 0.4cm
+  section_titles:
+    type: centered_with_centered_partial_line
+    line_thickness: 0.5pt
+    space_above: 0.5cm
+    space_below: 0.2cm
+  sections:
+    allow_page_break: true
+    space_between_regular_entries: 1em
+    space_between_text_based_entries: 0.3em
+    show_time_spans_in: []
+  entries:
+    date_and_location_width: 4.15cm
+    side_space: 0.2cm
+    space_between_columns: 0.1cm
+    allow_page_break: false
+    short_second_row: false
+    degree_width: 1cm
+    summary:
+      space_above: 0cm
+      space_left: 0cm
+    highlights:
+      bullet: •
+      nested_bullet: •
+      space_left: 0.15cm
+      space_above: 0cm
+      space_between_items: 0cm
+      space_between_bullet_and_text: 0.5em
+  templates:
+    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    single_date: MONTH_ABBREVIATION YEAR
+    date_range: START_DATE – END_DATE
+    time_span: ''
+    one_line_entry:
+      main_column: '**LABEL:** DETAILS'
+    education_entry:
+      main_column: |-
+        **INSTITUTION**, DEGREE_WITH_AREA -- LOCATION
+        SUMMARY
+        HIGHLIGHTS
+      degree_column: '**DEGREE**'
+      date_and_location_column: DATE
+    normal_entry:
+      main_column: |-
+        **NAME** -- **LOCATION**
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: DATE
+    experience_entry:
+      main_column: |-
+        **COMPANY**, POSITION -- LOCATION
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: DATE
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        SUMMARY
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE
+
