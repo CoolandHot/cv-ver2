@@ -32,11 +32,9 @@ cv:
         protocols.
       - I am now seeking to apply this combined expertise in this Data Protection Officer (IT), where I can bridge technical IT understanding with regulatory compliance to protect
         organisational information assets and build a culture of data privacy
-        awareness. Noticing GDPR and data protection regulation as a
-        key requirement for this role, I have proactively enrolled in an online
-        GDPR and Data Protection certification course to formalise and
-        consolidate my practical compliance experience within the appropriate
-        regulatory framework.
+        awareness. I have obtained a GDPR Foundations certification from online
+        courses, formalising my practical compliance experience within the
+        appropriate regulatory framework.
 
     education:
       - institution: University of Surrey
@@ -219,10 +217,16 @@ cv:
         end_date: 2026-05
         
     skills:
+      - label: GDPR Foundations
+        details: Measured Collective | Issued Jul 2026 | Credential ID 202607192001572198
+      - label: Microsoft Office Specialist Master (Word, PowerPoint, Excel, Access)
+        details: Microsoft | Issued Jan 2018 | Credential ID wdypE-FMK3,wdEWh-Hah7,EBRw-DwBA,7Pyh-uSwC
       - label: Data Governance & Compliance
         details: Institutional Ethics Compliance, Data Access Controls, Anonymisation
           Protocols, Audit Trail Management, Data Privacy Impact Assessment
           (DPIA) Frameworks, Sensitive Data Handling (Clinical/Genomic)
+      - label: Data Science & Machine Learning
+        details: Statistical Data Science, Machine Learning, Deep Learning, Natural Language Processing, Graph Neural Networks, Data Mining, Data Visualisation
       - label: IT Project Management
         details: End-to-End IT Lifecycle Management, Policy & Procedure Development,
           Staff Training & Awareness Programmes, Multi-stakeholder Liaison,
@@ -230,6 +234,3 @@ cv:
       - label: Technical IT Skills
         details: Python, R, JavaScript, SQL/NoSQL, Docker (Containerised Workflows),
           RESTful APIs, Secure Data Pipelines, Cloud Environments
-      - label: Stakeholder Communication
-        details: Clinical Collaborator Liaison, Non-Technical Audience Communication,
-          Regulatory Reporting, Interactive Data Dashboards (Shiny/Dash/D3.js)

@@ -178,11 +178,18 @@ cv:
         start_date: 2017-01
         end_date: 2020-02
     skills:
+      - label: GDPR Foundations
+        details: Measured Collective | Issued Jul 2026 | Credential ID 202607192001572198
+      - label: Microsoft Office Specialist Master (Word, PowerPoint, Excel, Access)
+        details: Microsoft | Issued Jan 2018 | Credential ID wdypE-FMK3,wdEWh-Hah7,EBRw-DwBA,7Pyh-uSwC
+      - label: Data Science & Machine Learning
+        details: Statistical Data Science, Machine Learning, Deep Learning, Natural Language Processing, Graph Neural Networks, Data Mining, Data Visualisation
       - label: Bioinformatics & Spatial Omics
         details: 10X Visium HD, NanoString GeoMx, Bespoke Spatial Clustering, Cell type Inference, GRN Inference, Interactive Data Deployment (Shiny/Dash)
       - label: Programming
         details: Python (PyTorch/Scikit-learn), R (Seurat/SpatialExperiment), Javascript
           (React/D3.js), SQL/noSQL, PHP, Go
+
 
 design:
   theme: harvard
