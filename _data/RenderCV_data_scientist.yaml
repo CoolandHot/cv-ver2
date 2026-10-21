@@ -1,7 +1,7 @@
 cv:
   # open https://rendercv.com/?billing=subscription for real-time rendering
   name: Huan Huang
-  headline: Computer Scientist specializing in Data Analysis, Machine Learning, Interactive Visualisation and Data Management
+  headline: Postdoctoral Researcher & Computer Scientist specialising in Data Analysis, Machine Learning and Interactive Visualisation
   location: London, UK
   email: coolandhot2006@gmail.com
   phone: "+44 7536 231990"
@@ -13,7 +13,7 @@ cv:
   custom_connections:
   sections:
     summary:
-      - I am a Computer Scientist with a PhD co-funded by the University of Surrey and Imperial College London, specialising in Computational Biology and Neuro-Oncology, with core expertise in transforming complex, high-dimensional data into intuitive and visually compelling interactive formats. My analytical foundation was established during my Master's in Data Science at the University of Sydney, where I built rigorous competencies across Statistical Data Science, Machine Learning and Data Mining, Advanced Data Models, and Natural Language Processing — skills I have since carried directly into doctoral and postdoctoral research.
+      - I am a Postdoctoral Researcher at Imperial College London and a Computer Scientist with a PhD co-funded by the University of Surrey and Imperial College London, specialising in Computational Biology and Neuro-Oncology, with core expertise in transforming complex, high-dimensional data into intuitive and visually compelling interactive formats. My analytical foundation was established during my Master's in Data Science at the University of Sydney, where I built rigorous competencies across Statistical Data Science, Machine Learning and Data Mining, Advanced Data Models, and Natural Language Processing — skills I have since carried directly into doctoral and postdoctoral research.
       - With over 7 years of industry experience spanning AI/ML research at Zhejiang University, data-driven project management for major telecommunications companies including China Mobile and China Unicom, and freelance web development, I bring a uniquely full-stack perspective to data science. I am proficient across Python (PyTorch, Scikit-learn), R (Seurat, SpatialExperiment), JavaScript (React, D3.js), and SQL/NoSQL, which I apply to build containerised bioinformatic workflows, custom spatial omics pipelines, and statistic-based clustering algorithms that automatically map immune niches in Glioblastoma tissue. Rather than delivering static, overwhelming outputs, I engineer bespoke web-based platforms that empower non-computational collaborators (such as pure neuroscientists) to dynamically explore and deeply understand complex biological and clinical results.
       - My philosophy of bridging rigorous mathematical modelling with interactive engineering was first forged during my Data Science Capstone Project and continues to drive every stage of my work today, from raw data processing to the final interactive visualisation.
     education:
@@ -55,6 +55,13 @@ cv:
         end_date: 2012-06
         location: Changsha, China
     experience:
+      - company: Imperial College London
+        position: Postdoctoral Researcher
+        start_date: 2026-07
+        end_date: present
+        location: London, UK
+        highlights:
+          - Continuing research in computational biology and neuro-oncology, with a focus on spatial omics, immune mechanisms, and interactive bioinformatic tools
       - company: Zhejiang University
         position: Research Assistant (AI/ML)
         start_date: 2022-02
@@ -181,6 +188,8 @@ cv:
         end_date: 2020-02
 
     skills:
+      - label: Fellow of the Higher Education Academy (FHEA)
+        details: Awarded through the Postgraduate Certificate in Learning and Teaching in Higher Education (PGCLTHE) | Advance HE
       - label: GDPR Foundations
         details: Measured Collective | Issued Jul 2026 | Credential ID 202607192001572198
       - label: Microsoft Office Specialist Master (Word, PowerPoint, Excel, Access)

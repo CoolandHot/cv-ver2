@@ -1,7 +1,7 @@
 cv:
   # open https://rendercv.com/?billing=subscription for real-time rendering
   name: Huan Huang
-  headline: Computer Scientist specializing in Computational Biology & Neuro-Oncology
+  headline: Postdoctoral Researcher & Computer Scientist specialising in Computational Biology and Neuro-Oncology
   location: London, UK
   email: coolandhot2006@gmail.com
   phone: "+44 7536 231990"
@@ -13,7 +13,7 @@ cv:
   custom_connections:
   sections:
     summary:
-      - I am a Computer Scientist specialising in Computational Biology and Neuro-Oncology, acting as a strategic bridge between advanced algorithmic development and clinical discovery. I recently passed my PhD Viva in June 2026 at the University of Surrey, in a programme co-funded by Imperial College London, and am currently continuing as a Postdoctoral Researcher in the same lab. I hold a Bachelor of Engineering in Electronics Information & Technology from Central South University and a Master of Science in Data Science from the University of Sydney.
+      - I am a Postdoctoral Researcher at Imperial College London and a Computer Scientist specialising in Computational Biology and Neuro-Oncology, acting as a strategic bridge between advanced algorithmic development and clinical discovery. I passed my PhD Viva in June 2026 at the University of Surrey, in a programme co-funded by Imperial College London, and now continue my research at Imperial College London. I hold a Bachelor of Engineering in Electronics Information & Technology from Central South University and a Master of Science in Data Science from the University of Sydney.
       - With over 7 years of industry experience, my professional background spans research assistantships in AI/ML at Zhejiang University and the University of Sydney, project management for large-scale IT deployments at major telecommunications companies including China Mobile and China Unicom, and freelance web development for small business owners. I excel at transforming complex, high-dimensional spatial omics data (e.g., 10X Visium HD, GeoMx) into interpretable, interactive digital assets, with a particular focus on uncovering immune mechanisms in Glioblastoma (GBM) through bespoke clustering algorithms. My work is further supported by strong full-stack programming skills across Python (PyTorch, Scikit-learn), R (Seurat, SpatialExperiment), JavaScript (React, D3.js), and SQL/NoSQL, which I leverage to build containerised bioinformatic workflows and deploy interactive web applications that visualise intricate biological and clinical data.
     education:
       - institution: University of Surrey
@@ -54,6 +54,13 @@ cv:
         end_date: 2012-06
         location: Changsha, China
     experience:
+      - company: Imperial College London
+        position: Postdoctoral Researcher
+        start_date: 2026-07
+        end_date: present
+        location: London, UK
+        highlights:
+          - Continuing research in computational biology and neuro-oncology, with a focus on spatial omics, immune mechanisms, and interactive bioinformatic tools
       - company: Zhejiang University
         position: Research Assistant (AI/ML)
         start_date: 2022-02
@@ -178,6 +185,8 @@ cv:
         start_date: 2017-01
         end_date: 2020-02
     skills:
+      - label: Fellow of the Higher Education Academy (FHEA)
+        details: Awarded through the Postgraduate Certificate in Learning and Teaching in Higher Education (PGCLTHE) | Advance HE
       - label: GDPR Foundations
         details: Measured Collective | Issued Jul 2026 | Credential ID 202607192001572198
       - label: Microsoft Office Specialist Master (Word, PowerPoint, Excel, Access)
@@ -316,4 +325,5 @@ design:
         AUTHORS
         URL (JOURNAL)
       date_and_location_column: DATE
+
 
